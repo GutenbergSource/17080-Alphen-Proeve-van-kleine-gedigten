@@ -1,0 +1,2853 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=nl-1800>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Proeve van kleine gedigten voor kinderen</title>
+<author key="Alphen, Hieronijmus van" ref="https://viaf.org/viaf/39627148">Hieronijmus van Alphen (1746&ndash;1803)</author>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=epub-id>urn:uuid:efe6a1eb-cd10-4871-924f-7c8059bd23db</idno>
+<idno type=PGclearance>20050613142729alphen</idno>
+<idno type=PGDPProjectID>projectID42cc3a0262146</idno>
+<idno type=PGnum>17080</idno>
+<date>2005-11-16</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Verscheen in drie deeltjes, van 1778 tot 1782. De blijdzijden zijn wel doorgenummerd.
+
+<p lang=en>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="https://www.gutenberg.org/">www.gutenberg.org</xref>.
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Hieronijmus van Alphen</author>
+<title>Proeve van kleine gedigten voor kinderen</title>
+<date>1779</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit bestand is in de oude spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn hersteld.
+
+<p>Hoewel in dit werk laag liggende aanhalingstekens openen worden gebruikt, zijn deze gecodeerd met &ldquo;.
+
+</encodingDesc>
+<profileDesc>
+<langUsage lang=nl>
+    <language id=nl-1800>Nederlands (oude spelling).</language>
+    <language id=nl>Nederlands.</language>
+    <language id=en>Engels.</language>
+    <language id=fr>Frans.</language>
+    <language id=de>Duits.</language>
+    <language id=la>Latijn.</language>
+</langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Children&apos;s poetry, Dutch </item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+<list>
+<item>13-NOV-2005 begonnen.
+</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Nieuw ontworpen voorkant.</figDesc>
+</figure>
+
+
+<pb n=1>
+
+<titlePage>
+<docTitle><titlePart>PROEVE
+<lb>VAN
+<lb>KLEINE GEDIGTEN
+<lb>VOOR KINDEREN.</titlePart></docTitle>
+
+<docImprint><hi>TE UTREGT</hi>,
+<lb>BIJ DE WED. JAN VAN TERVEEN EN ZOON.
+<lb>MDCCLXXIX.
+</docImprint>
+</titlePage>
+
+<pb n=2>
+<div1 id=motto type=Motto>
+
+<p><hi>De kinderen zijn een erfdeel des HEERE.</hi>
+
+                        <p rend="align(right)">SALOMO.
+
+
+<pb n=3>
+<div1 id=preface type=Preface>
+<head>VOORBERIGT.</head>
+
+
+<p>Zie daar eenige kleine gedigten, ten behoeve van
+kinderen opgesteld. De maker weet zeer wel, dat hij,
+als digter, daar door weinig roem behalen kan,
+maar dat was ook zijn oogmerk niet. Hij bedoelde
+slegts eenige nuttige waarheden zo in rijm voortedragen,
+dat dezelven de kinderlijke vatbaarheid niet te
+boven gingen; en hij heeft ze zo klein gemaakt, op
+dat zij des te gemakkelijker, door enkel leezen, zouden
+kunnen in het geheugen geprent worden, zonder
+dat het noodig was, dat ze van buiten geleerd werden;
+iets waar de maker zeer tegen is, en dat daarenboven,
+enkel door herhaald leezen, geschieden kan.
+
+<p>Het geen aanleiding gaf tot het opstellen dezer stukjens
+is geweest&mdash;dat de maker zelf kinderen heeft, die
+thands zijn eenig en grootst vermaak zijn&mdash;dat men
+aan zulke stukjens in onze taal gebrek heeft&mdash;dat
+hij ook gaarne voor anderen nuttig is&mdash;en dat hij
+de Hoogduitsche <hi lang=de>Lieder für kinder</hi> van WEISSE en de
+<hi lang=de>kleine Lieder für kleine mädchen und jünglinge</hi> van
+G.W. BURMANN, met zeer veel genoegen, gelezen
+heeft; ook hebben zij hem menigmaal op den weg geholpen,
+<pb n=4>schoon hij er eigenlijk geenen uit vertaald,
+of overgenomen heeft.
+
+<p>Zij zijn wel allen niet voor kinderen van vier of
+vijf jaaren geschikt, maar dit was ook juist niet noodig.
+Men kan zelf kiezen, welken men aan zijne kinderen
+wil laten lezen, ook kan men schielijk merken, of een
+kind verstaat wat het leest dan niet. De opsteller heeft
+met allen de proef genomen; en hij kan verzekeren,
+dat zijn oudste jongetjen&mdash;een kind van vijf jaaren&mdash;veelen
+van dezelven, op de eerste of tweede
+leezing, verstaan heeft; en daarom houdt hij zig
+verzekerd, dat alle deze stukjens voor kinderen, boven
+de vijf en beneden de tien jaaren, bruikbaar zijn.
+Ook mag het geen kwaad wanneer hier en daar het
+kinderlijk verstand eene kleine zwarigheid ontmoet,
+en daar door tot vragen en praten wordt opgewekt.
+
+<p>Wanneer ik het genoegen had, dat deze gedigtjens
+goedgekeurd en met vrugt gebruikt werden, zou ik
+met vermaak nu en dan een blaadjen voegen bij het
+geen ik thands aan mijne Landgenoten aanbiede. Het
+getal, dat ik thands geve, is groot genoeg, om er de
+proef mede te nemen.
+
+
+<pb n=5>
+</front>
+<body>
+<div1 id=p01 type=Poem>
+<head>AAN TWEE
+LIEVE KLEINE JONGENS.</head>
+
+<lg type=Group><lg>
+    <l>Zie daar, lieve wigtjes!
+    <l>Een bundel gedigtjes,
+      <l rend="indent(1)">Vermaakt er u meê!
+    <l>En springt naar uw wooning;
+    <l>Maar ... eerst ter belooning
+      <l rend="indent(1)">Een kusjen of twee.
+</lg>
+
+<lg>
+    <l>Door liefde gedrongen
+    <l>Heb ik ze gezongen,
+      <l rend="indent(1)">En wilt gij er meer,
+    <l>Gij moogt er om vragen.
+    <l>Wanneer ze u behagen
+      <l rend="indent(1)">Komt huppelend weêr.
+</lg></lg>
+
+
+
+<pb n=6>
+<div1 id=p02>
+<head>HET KINDERLIJK GELUK.</head>
+
+<lg><lg>
+        <l rend="indent(2)">Ik ben een kind,
+        <l rend="indent(2)">Van God bemind,
+      <l rend="indent(1)">En tot geluk geschapen.
+        <l rend="indent(2)">Zijn liefde is groot;
+    <l>&apos;k Heb speelgoed, kleedren, melk en brood,
+      <l rend="indent(1)">Een wieg om in te slapen.
+</lg>
+
+<lg>
+        <l rend="indent(2)">Ik leef gerust;
+        <l rend="indent(2)">Ik leer met lust;
+      <l rend="indent(1)">Ik weet nog van geen zorgen.
+        <l rend="indent(2)">Van &apos;t speelen moe,
+    <l>Sluit ik mijn oogjens &apos;s avonds toe,
+      <l rend="indent(1)">En slaap tot aan den morgen.
+</lg>
+
+<lg>
+        <l rend="indent(2)">Geloofd zij God
+        <l rend="indent(2)">Voor &apos;t ruim genot
+      <l rend="indent(1)">Van zo veel gunstbewijzen!
+        <l rend="indent(2)">Mijn hart en mond
+    <l>Zal hem, in elken morgenstond,
+      <l rend="indent(1)">En elken avond prijzen.
+</lg></lg>
+
+
+
+<pb n=7>
+<div1 id=p03>
+<head>DE PERZIK.</head>
+
+<lg><lg>
+    <l>Die perzik gaf mijn vader mij,
+       <l rend="indent(2)">Om dat ik vlijtig leer.
+    <l>Nu eet ik vergenoegd en blij.
+       <l rend="indent(2)">Die perzik smaakt naar meer.
+</lg>
+
+<lg>
+    <l>De vrolijkheid past aan de jeugd
+       <l rend="indent(2)">Die leerzaam zig betoont.
+    <l>De naarstigheid, die kinderdeugd,
+       <l rend="indent(2)">Wordt altoos wel beloond.
+</lg></lg>
+
+
+
+<pb n=8>
+<div1 id=p04>
+<head>DE KINDERLIEFDE.</head>
+
+<lg><lg>
+      <l rend="indent(1)">Mijn vader is mijn beste vrind.
+      <l rend="indent(1)">Hij noemt mij steeds zijn lieve kind.
+    <l>&apos;k Ontzie hem, zonder bang te vreezen.
+      <l rend="indent(1)">En ga ik hupplend aan zijn zij&apos;,
+      <l rend="indent(1)">Ook dan vermaakt en leert hij mij;
+    <l>Er kan geen beter vader wezen!
+</lg>
+
+<lg>
+      <l rend="indent(1)">Ik ben ook somtijds wel eens stout,
+      <l rend="indent(1)">Maar als mijn ondeugd mij berouwt,
+    <l>Dan wordt zijn vaderhart bewogen;
+      <l rend="indent(1)">Dan spreekt zijn liefde geen verwijt,
+    <l>Ja zelfs, wanneer hij mij kastijdt,
+    <l>Dan zie ik tranen in zijn oogen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Zou ik door ongehoorzaamheid
+      <l rend="indent(1)">Dan maken, dat mijn vader schreit;
+    <l>Zou ik hem zugten doen en klagen;
+      <l rend="indent(1)">Neen, als mijn jonkheid iet misdoet,
+      <l rend="indent(1)">Dan val ik aanstonds hem te voet,
+    <l>En zal aan God vergeving vragen.
+</lg></lg>
+
+
+
+<pb n=9>
+<div1 id=p05>
+<head>ALEXIS</head>
+
+<lg><lg>
+    <l>Alexis heeft zijn zusjen lief,
+    <l>Wanneer ze in vrede leven;
+    <l>Hij noemt haar zelfs zijn hartedief,
+    <l>Als zij haar speelgoed hem wil geven.
+    <l>Maar als zij iet, dat hem behaagt,
+    <l>Voor haar, on meê te speelen, vraagt,
+    <l>Dan wordt die liefde ras verminderd;
+    <l>En als zij hem in &apos;t doen van zijnen zin verhindert,
+    <l>Dan haat hij bijkans haar geheel.
+    <l>Ook is zij doorgaands hem te veel,
+    <l>Wanneer zij boven hem door iemand wordt geprezen.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+        <l rend="indent(2)">Een liefde, die zo ras verkoelt,
+        <l rend="indent(2)">Die slegts op eigen voordeel doelt.
+        <l rend="indent(2)">Zou dat wel regte liefde wezen?
+</lg></lg>
+
+
+
+<pb n=10>
+<div1 id=p06>
+<head>DE WAARE RIJKDOM</head>
+
+<lg><lg>
+    <l>Geen geld bekore ons jong gemoed,
+      <l rend="indent(1)">Maar heiligheid en deugd.
+    <l>De wijsheid is het noodigst goed;
+      <l rend="indent(1)">Het sieraad van de jeugd.
+</lg>
+
+<lg>
+    <l>Wat is tog rijkdom? wat is eer?
+      <l rend="indent(1)">Een handvol nietig slijk.
+    <l>Gods vriend te wezen is veel meer;
+      <l rend="indent(1)">Die Jesus lieft, is rijk.
+</lg>
+
+<lg>
+    <l>Kom <sic>vallenwe</sic> onzen God te voet
+      <l rend="indent(1)">Om deugd en heiligheid:
+    <l>Zo wordt op aard ons jong gemoed
+      <l rend="indent(1)">Ten hemel voorbereid.
+</lg>
+
+<lg>
+    <l>Dan krijgen wij dien besten schat,
+      <l rend="indent(1)">Die nimmermeer vergaat.
+    <l>Dan loopen we op het deugdenpad,
+      <l rend="indent(1)">En schrikken voor het kwaad.
+</lg></lg>
+
+
+
+<pb n=11>
+<div1 id=p07>
+<head>HET VROLIJK LEEREN.</head>
+
+<lg>
+    <l>Mijn speelen is leeren, mijn leeren is speelen,
+    <l>En waarom zou mij dan het leeren verveelen?
+      <l rend="indent(1)">Het lezen en schrijven verschaft mij vermaak,
+    <l>Mijn hoepel, mijn priktol verruil ik voor boeken;
+    <l>Ik wil in mijn prenten mijn tijdverdrijf zoeken,
+      <l rend="indent(1)">&apos;t Is wijsheid, &apos;t zijn deugden, naar welken ik haak.
+</lg>
+
+
+
+<pb n=12>
+<div1 id=p08>
+<head>HET MEDELIJDEN.</head>
+
+<lg><lg>
+    <l>Wie dat ik immer smart zie dragen,
+      <l rend="indent(1)">&apos;k Heb ook gevoel daar van.
+    <l>Ik sluit mijn oor niet voor zijn klagen.
+      <l rend="indent(1)">Maar help hem als ik kan.
+</lg>
+
+<lg>
+    <l>Een mensch in droefheid optebeuren,
+      <l rend="indent(1)">Is zelfs voor kinders zoet.
+    <l>Die spotten kan met hen die treuren,
+      <l rend="indent(1)">Vertoont een slegt gemoed.
+</lg>
+
+<lg>
+    <l>Zou mij eens anders leet verblijden?
+      <l rend="indent(1)">Zou &apos;k lagchen in zijn smart?
+    <l>O neen, een edel medelijden
+      <l rend="indent(1)">Past aan mijn kinderhart.
+</lg>
+
+<lg>
+    <l>Ik wil dan met bedroefden klagen,
+      <l rend="indent(1)">Hen troosten in hun pijn.
+    <l>Eens anders last te helpen dragen,
+      <l rend="indent(1)">Zal mijn genoegen zijn.
+</lg></lg>
+
+
+
+<pb n=13>
+<div1 id=p09>
+<head>DE NAARSTIGHEID.</head>
+
+<lg><lg>
+    <l>Des morgens lang te slapen,
+    <l>Te geeuwen en te gapen,
+      <l rend="indent(1)">Staat lelijk voor een kind.
+    <l>Die altoos veel moet snappen,
+    <l>En zotte taal wil klappen,
+      <l rend="indent(1)">Ziet zelden zig bemind.
+</lg>
+
+<lg>
+    <l>Zou ik mijn tijd besteden
+    <l>Aan duizend nietigheden?
+      <l rend="indent(1)">&apos;k Heb daar geen voordeel van.
+    <l>Mijn lessen wil ik leeren,
+    <l>Mijn meesters zal ik eeren,
+      <l rend="indent(1)">Dan worde ik haast een man.
+</lg></lg>
+
+
+
+<pb n=14>
+<div1 id=p10>
+<head>DE SPIEGEL.</head>
+
+<lg><lg>
+    <l>Die telkens in den spiegel ziet,
+      <l rend="indent(1)">En zig met schoonheid vleit;
+    <l>Beseft de waare schoonheid niet,
+      <l rend="indent(1)">Maar jaagt naar ijdelheid.
+</lg>
+
+<lg>
+    <l>Dit glas maakt trots, of geeft ons pijn;
+      <l rend="indent(1)">Wil &apos;k weeten, wie ik ben,
+    <l>Dan moet Gods woord de spiegel zijn,
+      <l rend="indent(1)">Waar ik mijn hart uit ken<corr sic=",">.</corr>
+</lg></lg>
+
+
+<pb n=15>
+<div1 id=p11>
+<head>KLAGT
+VAN DEN
+KLEINEN WILLEM
+OP DE DOOD VAN ZIJN ZUSJEN.</head>
+
+<lg><lg>
+    <l>Ach! mijn zusjen is gestorven,
+      <l rend="indent(1)">nog maar veertien maanden oud.
+    <l>&apos;k Zag haar dood in &apos;t kisje liggen:
+      <l rend="indent(1)">ach wat was mijn zusje koud!
+    <l>&apos;k Riep haar toe: mijn lieve Mietje!
+      <l rend="indent(1)">Mietje! Mietje! maar voor niet.
+    <l>Ach! haar oogjes zijn gesloten;
+      <l rend="indent(1)">schreien moet ik van verdriet.
+    <l>Altoos wil ik om haar treuren,
+      <l rend="indent(1)">bloempjes strooien op haar graf;
+    <l>Weenend aan de kusjes denken,
+      <l rend="indent(1)">die mij &apos;t lieve meisje gaf.
+    <l>Morgen zal ik&mdash;maar voor mij ook
+      <l rend="indent(1)">is &apos;t gevaar van sterven groot.
+    <l>Gistren liep zij met mij speelen;
+      <l rend="indent(1)">gistren nog! en nu&mdash;reeds dood!
+</lg></lg>
+
+
+
+<pb n=16>
+<div1 id=p12>
+<head>HET GESCHENK.</head>
+
+
+<lg><lg>
+    <l>Moeder lief! zie daar een roosjen
+                      <l rend="indent(8)">Van uw Coosjen,
+      <l rend="indent(1)">Wijl gij heden jarig zijt.
+    <l>&apos;k Heb van morgen al gezongen,
+                      <l rend="indent(8)">En gesprongen:
+      <l rend="indent(1)">Zo verlangde ik naar dien tijd.
+</lg>
+
+<lg>
+    <l>Maar kan ik geen rijmpjes digten,
+                      <l rend="indent(8)">Moet ik zwigten
+      <l rend="indent(1)">Voor mijn broêr in poëzij.
+    <l>Neem dan, moeder! slegts dit roosjen
+                      <l rend="indent(8)">Van uw Coosjen<corr sic=",">.</corr>
+      <l rend="indent(1)">&apos;k Heb u tog zo lief als hij.
+</lg></lg>
+
+
+
+<pb n=17>
+<div1 id=p13>
+<head>WELKOMGROET VAN
+CLAARTJE
+VOOR HAAR KLEINE ZUSJE.</head>
+
+
+<lg><lg>
+    <l>Welkom lieve kleine zus!
+      <l rend="indent(1)">Welkom in dit leven!
+    <l>Baker! mag ik niet een kus
+      <l rend="indent(1)">Aan mijn zusje geven.
+</lg>
+
+<lg>
+    <l><sic>Wilje</sic> slapen? o zij krijt!
+      <l rend="indent(1)">&apos;t Zal haar wis verveelen.
+    <l>Morgen, als gij wakker zijt,
+      <l rend="indent(1)">Zal ik met u speelen.
+</lg>
+
+<lg>
+    <l>Slaap gerust, dan wordt gij groot;
+      <l rend="indent(1)">Leer tog spoedig loopen!
+    <l>Als gij zit op moeders schoot,
+      <l rend="indent(1)">Zal zij speelgoed koopen.
+</lg>
+
+<lg>
+    <l>O! Mamatjen is zo goed!
+      <l rend="indent(1)">Alles wil zij geven,
+    <l>Als haar kindertjes maar zoet
+      <l rend="indent(1)">En te vrede leven.
+</lg></lg>
+
+
+
+<pb n=18>
+<div1 id=p14>
+<head>DE LEDIGHEID.</head>
+
+
+<lg><lg>
+    <l>Nimmer moet ik ledig wezen;
+      <l rend="indent(1)">Alles doen met lust en vlijt.
+    <l>Bidden, leeren, schrijven, leezen,
+      <l rend="indent(1)">Spelen, werken heeft zijn tijd.
+</lg>
+
+<lg>
+    <l>Moeder lief kan &apos;t ook niet veelen,
+      <l rend="indent(1)">Dat de tijd verwaarloosd wordt.
+    <l>Lui zijn, <sic>zegtze</sic>, is tijd te steelen,
+      <l rend="indent(1)">En ons leven is zo kort!
+</lg></lg>
+
+
+
+<pb n=19>
+<div1 id=p15>
+<head>HET HONDJEN.</head>
+
+
+<lg><lg>
+    <l>Hoe dankbaar is mijn kleine hond
+      <l rend="indent(1)">Voor beentjes en wat brood!
+    <l>Hij kwispelstaart, hij loopt in &apos;t rond,
+      <l rend="indent(1)">En springt op mijnen schoot.
+</lg>
+
+<lg>
+    <l>Mij geeft men vleesch en brood en wijn,
+      <l rend="indent(1)">En dikwijls lekkernij:
+    <l>Maar kan een beest zo dankbaar zijn,
+      <l rend="indent(1)">Wat wagt men niet van mij!
+</lg></lg>
+
+
+
+<pb n=20>
+<div1 id=p16>
+<head>HET GEBROKEN GLAS.</head>
+
+<head type=sub>EENE VERTELLING.</head>
+
+
+<lg><lg>
+    <l>Cornelis had een glas gebroken
+                    <l rend="indent(8)">Voor aan de straat.
+    <l>Schoon hij de stukken had verstoken,
+                    <l rend="indent(8)">Hij wist geen raad.
+    <l>Hij had een afschrik van te liegen.
+                    <l rend="indent(8)">Wijl God het ziet:
+    <l>En zou hij nu Mama bedriegen,
+                    <l rend="indent(8)">Dat kon hij niet.
+</lg>
+
+<lg>
+    <l>Hij stond onthutseld en bewogen,
+                    <l rend="indent(8)">De moeder komt:
+    <l>Zij ziet de tranen in zijn oogen,
+                    <l rend="indent(8)">Hij scheen verstomd.
+    <l>Heeft Keesje, zeize, wat bedreven?
+                    <l rend="indent(8)">Wat scheelt er aan?
+    <l>&apos;k Heb zei hij, moeder lief! zo even
+                    <l rend="indent(8)">Weer kwaad gedaan.
+</lg>
+
+<pb n=21><lg>
+    <l>Terwijl ik bezig met paletten
+                    <l rend="indent(8)">Bij &apos;t venster was.
+    <l>Vloog mijn <hi>volan</hi>, door &apos;t fors raketten,
+                    <l rend="indent(8)">Daar in het glas.
+    <l>Maar als uw Keesje &apos;t van zijn leven
+                    <l rend="indent(8)">Niet weder doet,
+    <l>Dan wilt gij &apos;t immers hem vergeven,
+                    <l rend="indent(8)">Gij zijt zo goed!
+</lg>
+
+<lg>
+    <l>Kom Keesje lief! hou op met krijten,
+                    <l rend="indent(8)">Zei moeder toen:
+    <l>&apos;k Wil u die misslag niet verwijten,
+                    <l rend="indent(8)">Hij kreeg een zoen.
+    <l>&ldquo;Die altoos wil de waarheid spreken,
+                    <l rend="indent(8)">Wordt wel beloond,
+    <l>Die leugens zoekt voor zijn gebreken,
+                    <l rend="indent(8)">Wordt nooit verschoond.
+</lg></lg>
+
+<!-- **beetje raar gebruik aanhalingstekens op deze blz? -->
+
+
+<pb n=22>
+<div1 id=p17>
+<head>DE GODSDIENSTIGHEID.</head>
+
+
+<lg>
+    <l>Als in de lieve lente
+    <l>De bloemen &apos;t veld versieren,
+    <l>Dan pluk ik roozeknopjes,
+    <l>Viooltjes, maagdeliefjes,
+    <l>Citroenkruid en seringen.
+    <l>Dan zal ik kransjes vlegten,
+    <l>En dragen die ter eere
+    <l>Van God, die mij het leven
+    <l>En bloempjes heeft geschonken.
+    <l>Dan zinge ik: Hemelkoning!
+    <l>Gij doet viooltjes groeien,
+    <l>Met roosjes, maagdeliefjes,
+    <l>Citroenkruid en seringen,
+    <l>Met duizend duizend bloemen;
+    <l>Om uwe magt en liefde
+    <l>Aan kinderen te toonen.
+    <l>Hoe mooi staat mij dit kransjen!
+    <l>Ach laat mij niet vergeten
+    <l>Dat gij het hebt doen groeien!
+</lg>
+
+
+<pb n=23>
+<div1 id=p18>
+<head>DE HAAS.</head>
+
+
+<lg><lg>
+    <l>Kijk Pietje! kijk, een haas, ô die zo gauw kon loopen!
+                  <l rend="indent(7)">Neen, zei de slimme Piet,
+              <l rend="indent(5)">Wilt gij een haasjen zijn, ik niet:
+    <l>&apos;k Wil liever langsaam gaan, dan &apos;t met den dood bekoopen.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Hij, die altoos wel te vreden
+      <l rend="indent(1)">Met vermogens die hij heeft
+      <l rend="indent(1)">Vergenoegd en dankbaar leeft,
+    <l>Kan zijn gaven wel besteden.
+      <l rend="indent(1)">Maar dat hij, die altoos kniest,
+    <l>En wat andren zijn wil wezen,
+      <l rend="indent(1)">Zelfs het geen hij heeft verliest,
+    <l>Heb ik meer dan eens gelezen.
+</lg></lg>
+
+
+
+<pb n=24>
+<div1 id=p19>
+<head>EENE VERTELLING VAN
+DORISJE.</head>
+
+
+<lg><lg>
+    <l>Wij zaten laatst bij <hi>Saartje</hi>,
+    <l>Onze oude goede baker,
+    <l>Die sprookjes kan vertellen.
+    <l>Wij dronken chocolade,
+    <l>En deden honderd vragen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">In &apos;t einde zei ons <hi>Saartje</hi>:
+    <l>Wel nu, mijn hartediefjes!
+    <l>Gij kent de vier getijden,
+    <l>Wat houdt gij voor het beste?
+</lg>
+
+<lg>
+      <l rend="indent(1)">Toen zei mijn zusje <hi>Mietje</hi>,
+    <l>Die tijd is mij de liefste,
+    <l>Wanneer de boomen bloeien.
+    <l>Dan krijgt men mooie bloempjes,
+    <l>Om tuiltjes van te vlegten.
+    <l>Dan ziet men duizend vogels
+    <l>Op groene takjes zingen.
+    <l>Is dat niet in de lente?
+</lg>
+
+<pb n=25><lg>
+      <l rend="indent(1)">De winter, lieve <hi>Saartje</hi>!
+    <l>Zei <hi>Pietjen</hi>, is de beste.
+    <l>Dan hooren wij vertellen,
+    <l>En drinken chocolade,
+    <l>Of eeten dikke wafels.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Neen ik verkies den zomer
+    <l>Zei <hi>Keesje</hi>, dan is &apos;t kermis.
+    <l>Dan hoef ik niet te leeren.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Maar ik zei, &apos;t is het beste,
+    <l>Als meest de vrugten rijp zijn.
+    <l>Dan valt er braaf te knappen.
+    <l>Dan heeft men abricoozen,
+    <l>En pruimen, en morellen.
+    <l>En perzikken en peeren:
+    <l>En is dat niet in &apos;t najaar?
+</lg>
+
+<lg>
+      <l rend="indent(1)">Hoort kinders, zeide <hi>Saartje</hi>,
+    <l>De winter moet de velden
+    <l>En tuinen vrugtbaar maken.
+    <l>Men moet de boomen snoeien;
+    <l>Den akker moet men mesten;
+    <l>Dat doet men in den winter.
+    <l>De boomen moeten bloeien,
+</lg>
+
+<pb n=26><lg>
+    <l>Om vrugten ons te geven;
+    <l>Dat doen zij in de lente.
+    <l>De vrugten moeten groeien;
+    <l>Dat doen zij in den zomer.
+    <l>Men moet de vrugten plukken;
+    <l>Dat doet men in het najaar.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Dus moet gij, lieve kinders!
+    <l>In alle jaargetijden
+    <l>Gods wijze goedheid loven,
+    <l>En wel te vrede wezen.
+</lg></lg>
+
+
+
+
+<pb n=27>
+<div1 id=p20>
+<head>JESUS.</head>
+
+
+<p><hi>een Zangstukje.</hi>
+
+<p>CLAARTJE <hi>en</hi> JANTJE.
+
+<p><hi>te samen</hi>.
+
+<lg>
+    <l>Jesus is een kindervriend!
+    <l>Onzer wil hij zig erbarmen.
+    <l>Hij nam kinders in zijn armen;
+    <l>Jesus is een kindervriend!
+</lg>
+
+<p>CLAARTJE <hi>alleen</hi>.
+
+<lg>
+    <l>Ach was Jesus nog op aarde!
+    <l>Aanstonds vloog ik naar hem heen.
+</lg>
+
+<p>JANTJE <hi>alleen</hi>.
+
+<lg>
+    <l>Ach was Jesus nog op aarde!
+    <l>&apos;k Vloog met u naar Jesus heen.
+</lg>
+
+<p><hi>te samen</hi>.
+
+<lg>
+    <l>Zoon van God! die eeuwig leeft!
+    <l>Hoor ons smeeken,
+    <l>En vergeeft
+    <l>Onze stoutheid en gebreken!
+    <l>Zoon van God! die eeuwig leeft!
+    <l>Zegen onze jeugd, en geeft,
+    <l>Dat wij dikwijls van U spreken!
+</lg>
+
+
+
+<pb n=28>
+<div1 id=p21>
+<head>DE DRIJFTOL</head>
+
+
+<lg><lg>
+    <l>Nooit loopt mijn drijftol zonder slagen;
+      <l rend="indent(1)">Want hou ik op, dan loopt hij niet.
+    <l>Ik heb in al dat slaan verdriet,
+      <l rend="indent(1)">En zal om ander speelgoed vragen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Maar is &apos;t ook zo met Flipje niet?
+    <l>Ja; had ik nimmer slaag te vrezen,
+    <l>&apos;k Zou zelden in mijn boeken lezen,
+      <l rend="indent(1)">En dat geeft vader ook verdriet.
+</lg>
+
+<lg>
+    <l>Foei dat ik van een tol moet leeren,
+      <l rend="indent(1)">Met vlijt te werken zonder dwang.
+      <l rend="indent(1)">&apos;k Wil tot mijn straf, mijn levenlang
+    <l>Geen ander speelgoed gaan begeeren.
+</lg></lg>
+
+
+
+<pb n=29>
+<div1 id=p22>
+<head>DE PRUIMEBOOM.</head>
+
+<head type=sub>EENE VERTELLING.</head>
+
+
+<lg>
+    <l>Jantje zag eens pruimen hangen,
+      <l rend="indent(1)">o! als eieren zo groot,
+    <l>&apos;t Scheen, dat Jantje wou gaan plukken,
+      <l rend="indent(1)">schoon zijn vader &apos;t hem verbood.
+    <l>Hier is, zei hij, noch mijn vader,
+      <l rend="indent(1)">noch de tuinman, die het ziet;
+    <l>Aan een boom, zo vol geladen,
+      <l rend="indent(1)">mist men vijf zes pruimen niet.
+    <l>Maar ik wil gehoorzaam wezen,
+      <l rend="indent(1)">en niet plukken: ik loop heen.
+    <l>Zou ik, om een hand vol pruimen,
+      <l rend="indent(1)">ongehoorzaam wezen? Neen.
+    <l>Voord ging Jantje: maar zijn vader,
+      <l rend="indent(1)">die hem stil beluisterd had,
+    <l>Kwam hem in het loopen tegen
+      <l rend="indent(1)">voor aan op het middelpad.
+    <pb n=30><l>Kom mijn Jantje, zei de vader,
+      <l rend="indent(1)">kom mijn kleine hartedief!
+    <l>Nu zal ik u pruimen plukken;
+      <l rend="indent(1)">nu heeft vader Jantje lief.
+    <l>Daar op ging Papa aan &apos;t schudden,
+      <l rend="indent(1)">Jantje raapte schielijk op;
+    <l>Jantje kreeg zijn hoed vol pruimen,
+      <l rend="indent(1)">en liep heen op een galop.
+</lg>
+
+
+
+<pb n=31>
+<div1 id=p23>
+<head>DE BEDELAAR.</head>
+
+
+<lg>
+    <l>Die afgeleefde man, die bijkans nakend zit,
+    <l>En trillend van de kou, mij om een duitje bidt,
+    <l>Is even goed als ik. Gods wijsheid gaf alleen
+    <l>Mij wat meer geld dan hem. Ben ik dan beter?..Neen.
+    <l>Een vroom en eerlijk mensch draagt dikwijls slegte kleeren,
+    <l>Ik wil dan ook de deugd in arme menschen eeren,
+                    <l rend="indent(8)">Die met veragting op hem ziet,
+                    <l rend="indent(8)">Doet naar &apos;t bevel van Jesus niet.
+</lg>
+
+
+
+<pb n=32>
+<div1 id=p24>
+<head>DE WAARE VRIENDSCHAP.</head>
+
+
+<lg>
+    <l>Een vriend, die mij mijn feilen toont;
+    <l>Gestreng bestraft, en nooit verschoont,
+    <l>Heeft op mijn hart een groot vermogen;
+    <l>Maar &apos;t laag gemoed, dat altoos vleit,
+    <l>Verdenk ik van baatzugtigheid,
+    <l>Ik kan zijn bijzijn niet gedogen.
+    <l>Die zelden prijst, spreekt vriendentaal.
+    <l>Die altoos vleit, liegt menigmaal.
+</lg>
+
+
+</body>
+</text>
+<text>
+<front id=frontmatter2>
+<pb n=33>
+<titlePage>
+<docTitle><titlePart>VERVOLG
+<lb>DER
+<lb>KLEINE GEDIGTEN
+<lb>VOOR KINDEREN,</titlePart></docTitle>
+
+<byline>
+VAN
+
+<lb>MR. <docAuthor>HIERONIJMUS VAN ALPHEN.</docAuthor>
+</byline>
+
+<docImprint>
+[Illustration]
+
+<lb><hi>TE UTREGT</hi>,
+<lb>BIJ DE WED. JAN VAN TERVEEN EN ZOON.
+
+<lb>MDCCLXXVIII.
+</docImprint>
+
+</titlePage>
+
+<pb n=34>
+<div1 id=motto2 type=Motto>
+
+<p><hi>Het zaad zal hem dienen.</hi>
+
+                        <p rend="align(right)">DAVID.
+
+
+
+<pb n=35>
+<div1 id=preface2 type=Preface>
+<head>VOORBERIGT.</head>
+
+
+<p>Ik ben veel te gevoelig over het gunstig onthaal, dat
+mijne <hi>kleine gedigten voor kinderen</hi> bij mijne Landgenooten
+gehad hebben, dan dat ik mijne blijdschap
+en dankbaarheid, deswegens, niet openlijk betuigen
+zou. De mondelijke en schriftelijke verklaringen van
+het genoegen, door dezen mijnen geringen arbeid veroorzaakt,
+hebben mij dikwijls sterk aangedaan; ja
+dikwijls riep ik bij zulke gelegenheden uit:
+
+<lg>
+    <l>Tranen vloeien uit mijn oogen,
+      <l rend="indent(1)">Lieve kinders, als gij mij
+      <l rend="indent(1)">Vraagt om meerder poëzij.
+    <l>Ach! mijn hart, zo ligt bewogen,
+      <l rend="indent(1)">Zegent God, die eeuwig leeft,
+      <l rend="indent(1)">Dat hij mij die blijdschap geeft!
+</lg>
+
+<p>Het is derhalven geen traagheid, geen lusteloosheid
+geweest, die mij het voordzetten van dezen arbeid zo
+lang heeft doen verschuiven. Wat dan?&mdash;louter onvermogen,
+mijne waarde Landgenooten! Ik kan, als
+digter vooral, niet werken wanneer ik wil; en zo dra
+ik mij zelf dwingen moet, valt alles kwalijk uit. Ik
+heb dan gewagt, tot dat ik weder in die gesteldheid
+geraakte, in welke ik mijne eersten vervaardigd heb;
+en het is de vrugt van die uuren, welke ik nu wederom
+aan onze kinderen aanbiede; in hoop dat dezelven
+even zo mogen behagen als de eersten.
+
+<p>Ik had lang mijne gedagten laten gaan, en zelfs eenige
+<pb n=36>middelen aangewend, om eenige kunstplaatjes
+bij deze kinderversjes te voegen, toen mij de Hr.
+ALLART, <hi>Boekhandelaar te Amsterdam</hi>, eenen weg
+aanwees, om daar in tot mijn genoegen te slagen. De
+plaatjes zullen, onder mijn opzigt, door den Kunstschilder
+J. BUYS geteekend, en door de Heeren PUNT
+en VAN DER MEER gegraveerd worden; van welker
+bekwaamheid men eene proeve zien kan in de fraaie
+plaatjes voor Gellerts fabelen; welke plaatjes men, zo
+wel als die fabelen, aan onze Nederlandsche jeugd niet
+genoeg kan aanbeveelen.
+
+<p>Deze plaatjes zullen, zo laag mogelijk, gesteld worden,
+en de versjes egter afzonderlijk te bekomen zijn.
+Zij egter, die zig van de eersten en beste afdrukken
+voorzien willen, gelieven, bij hunne Boekverkopers,
+of bij J. ALLART, te <hi>Amsterdam</hi>, of bij de WED.
+J. V. TERVEEN EN ZOON <hi>alhier</hi>, hunne namen optegeven;
+zullende de eerste afdrukken aan dezulken, zo
+dra mogelijk, worden afgeleverd.
+
+<p>Vaartwel mijne Landgenooten! en weest verzekerd,
+dat het mij altoos een gevoelig genoegen zal zijn,
+iets tot nut of vermaak van u of uwe kinderen te
+kunnen toebrengen.
+
+<milestone unit=tb>
+
+<p>Ik moet hier nog bijvoegen, dat er redenen
+zijn, die mij noodzaken, om geene exemplaren voor
+egt te erkennen, dan die door de drukkers dezes
+eigenhandig dus onderteekend zijn,
+
+
+<!-- [Illustration] -->
+
+
+
+<pb n=37>
+</front>
+<body>
+<div1 id=p25 type=Poem>
+<head>LOTJE EN KEESJE.</head>
+
+
+<p>KEESJE.
+
+<lg>
+    <l>Zeg me zoete lieve <hi>Lotje</hi>!
+      <l rend="indent(1)">wat is de oorzaak, datge schreit:
+    <l>Hebtge uw beugeltas verloren,
+      <l rend="indent(1)">of gebroken, lieve meid?
+</lg>
+
+<p>LOTJE.
+
+<lg>
+    <l>Zou &apos;k niet schreien, waarde <hi>Keesje</hi>!
+      <l rend="indent(1)">moeder lief was niet voldaan
+    <l>Met mijn naaiwerk o! zij zag mij
+      <l rend="indent(1)">met verdriet en droefheid aan.
+    <l>Ja zij wilde mij niet kussen,
+      <l rend="indent(1)">zo als ze anders altijd doet.
+    <l>Foei mij! ach! dat zulk een moeder
+      <l rend="indent(1)">om mijn stoutheid treuren moet.
+</lg>
+
+<pb n=38><p>KEESJE.
+
+<lg>
+    <l>Wat kan &apos;t baten, dat gij eenzaam
+      <l rend="indent(1)">in een hoekje zit, en klaagt.
+    <l>Ga, zij zal het u vergeven,
+      <l rend="indent(1)">als gij om verschoning vraagt.
+</lg>
+
+<p>LOTJE.
+
+<lg>
+    <l>Zult gij dan mijn voorspraak wezen,
+      <l rend="indent(1)">mij geleiden:
+</lg>
+
+<p>KEESJE.
+
+<lg>
+                        <l rend="indent(10)">ja gewis:
+    <l>Zou ik niet voor <hi>Lotje</hi> spreken,
+      <l rend="indent(1)">die mijn liefste zusjen is.
+    <l>Maar gij hebt geen voorspraak noodig,
+      <l rend="indent(1)">als gij moeder valt te voet,
+    <l>Zal zij &apos;t zeker u vergeven,
+      <l rend="indent(1)">Moeder, weet gij, is zo goed.
+    <l>Gistren las zij voor ons beide,
+      <l rend="indent(1)">dat ook God de schuld vergeeft:
+    <l>&apos;k Weet, zij zal u wis verschoonen,
+      <l rend="indent(1)">daar zij zulk een voorbeeld heeft.
+</lg>
+
+
+
+<pb n=39>
+<div1 id=p26>
+<head>DE GEZONDHEID.</head>
+
+
+<lg><lg>
+    <l>Gezondheid is een groote schat
+      <l rend="indent(1)">Om vergenoegd te leven.
+    <l>Ofschoon ik groten rijkdom had,
+      <l rend="indent(1)">Wat voordeel zou het geven,
+    <l>Zo ik, doorknaagd van angst en pijn,
+    <l>Mij zelven tot een last moest zijn.
+</lg>
+
+<lg>
+    <l>Maar zou ik dan mijn Vaders raad
+      <l rend="indent(1)">Niet ijverig betragten?
+    <l>En gulzigheid en overdaad
+      <l rend="indent(1)">Niet mijden en veragten?
+    <l>Die nooit genoeg heeft voor zijn mond,
+    <l>Leeft zelden vrolijk en gezond.
+</lg></lg>
+
+
+
+<pb n=40>
+<div1 id=p27>
+<head>KLAARTJE en KEETJE.</head>
+
+
+<p>KLAARTJE.
+
+
+<lg>
+    <l>Altoos werken, altoos lezen,
+    <l>Dat moet wel verdrietig wezen:
+      <l rend="indent(1)">Is het daarom dat men leeft?
+    <l>Lustig Keetje! nu aan &apos;t spelen;
+    <l>Ach! de tijd moet u verveelen
+      <l rend="indent(1)">Dien gij aan uw meesters geeft.
+</lg>
+
+<p>KEETJE.
+
+<lg>
+    <l>Nooit te werken, nooit te lezen,
+    <l>Altoos in den tuin te wezen,
+      <l rend="indent(1)">Is het daarom dat men leeft?
+    <l>Klaartje lief, hou op met spelen;
+    <l>Ach! de tijd moet u verveelen,
+      <l rend="indent(1)">Dien gij aan uw poppen geeft.
+</lg>
+
+<pb n=41><p>KLAARTJE.
+
+<lg>
+    <l>Somtijds spelen, somtijds lezen,
+    <l>Dat zal wel het beste wezen,
+      <l rend="indent(1)">Keetje lief! kom speel met mij.
+</lg>
+
+<p>KEETJE.
+
+<lg>
+    <l>&apos;t Zal dan zeker u verveelen,
+    <l>Op te houden van het spelen:
+      <l rend="indent(1)">Leer nu eerst, dan spelen wij.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Ter nauwer nood had Keetje dit gezegd,
+    <l>Of Klaartje had, beschaamd, haar poppen weggelegd.
+</lg>
+
+
+
+<pb n=42>
+<div1 id=p28>
+<head>HET GEVONDEN LIEDJEN.</head>
+
+
+<lg>
+    <l>&apos;k Vond daar even dit papiertjen,
+      <l rend="indent(1)">&apos;k hoop dat ik het lezen kan.
+    <l>Boven staat er op geschreven:
+      <l rend="indent(1)">Hoe!.....
+</lg>
+
+                            <p rend="align(right)">DE VERGENOEGDE MAN.
+
+<lg><lg>
+    <l>Kom kinders zet u bij mij neêr.
+      <l rend="indent(1)">&apos;k Zal u een liedjen geven.
+    <l>De vergenoegdheid is veel meer
+      <l rend="indent(1)">Dan schatten in dit leven.
+</lg>
+
+<lg>
+    <l>Al heb ik weinig, &apos;k heb genoeg;
+      <l rend="indent(1)">Zou ik een man benijden,
+    <l>Die altoos mooie kleeren droeg,
+      <l rend="indent(1)">Maar zwaare pijn moest lijden.
+</lg>
+
+<pb n=43><lg>
+    <l>Het werken houdt mij steeds gezond
+      <l rend="indent(1)">En vlug van lijf en leden.
+    <l>&apos;k Word wakker in den morgenstond
+      <l rend="indent(1)">Verkwikt en wel te vreden.
+</lg>
+
+<lg>
+    <l>De honger, dien ik zelden mis,
+      <l rend="indent(1)">Doet mij veel grager eeten,
+    <l>Dan of ik aan een konings disch,
+      <l rend="indent(1)">Was dag aan dag gezeten.
+</lg>
+
+<lg>
+    <l>&apos;k Heb dikwijls water uit een bron
+      <l rend="indent(1)">Met meerder smaak gedronken,
+    <l>Dan ooit de wijn mij geven kon,
+      <l rend="indent(1)">Bij bekers ingeschonken.
+</lg>
+
+<lg>
+    <l>En is de dag voorbijgegaan,
+      <l rend="indent(1)">Zie ik den avond rijzen,
+    <l>Dan hef ik eens een liedjen aan
+      <l rend="indent(1)">Om mijnen God te prijzen.
+</lg>
+
+<pb n=44><lg>
+    <l>Nu lieve kinders, leeft als ik,
+      <l rend="indent(1)">Verblijdt u in Gods zegen!
+    <l>Zeg dankend ieder oogenblik,
+      <l rend="indent(1)">Wat heb ik veel gekregen!
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Welk een lief en aartig liedjen!
+    <l>Hoe behaagt en treft het mij.
+    <l>Mogt ik leeren zo te leven,
+    <l>Vergenoegde man! als gij.
+</lg></lg>
+
+
+
+<pb n=45>
+<div1 id=p29>
+<head>DE GOEDE EERZUGT.</head>
+
+<head type=sub>EENE KLAGT VAN DAANTJE.</head>
+
+
+<lg><lg>
+    <l>Ach mij! ik ben verdrietig,
+    <l>Ik heb den prijs verloren,
+    <l>Dien vader lief beloofd had,
+    <l>Aan hem, die &apos;t beste leerde.
+    <l>Dat boek met mooie prentjes,
+    <l>Met groene zijde lintjes,
+    <l>Waar naar ik zo verlangde,
+    <l>Heeft Jantje nu gekregen;
+    <l>Om dat hij &apos;t best kon schrijven,
+    <l>En &apos;t vlugst was in het lezen.
+    <l>Ja op de kaarten kon hij
+    <l>De landen en rivieren,
+    <l>De zeeën en de steden,
+    <l>Het gauwst van allen vinden.
+</lg>
+
+<pb n=46><lg>
+      <l rend="indent(1)">Maar zou ik hem benijden,
+    <l>En nu nog minder leeren?
+    <l>Neen, &apos;k wil zijn gaven prijzen,
+    <l>En hem te meer beminnen.
+    <l>Maar tevens zal ik tragten,
+    <l>Den eereprijs te winnen,
+    <l>Dien Vader weer beloofd heeft.
+    <l>&apos;k Wil dan wat minder spelen,
+    <l>Ik wil wat korter slapen,
+    <l>En groter vlijt besteden
+    <l>In &apos;t horen naar de lessen,
+    <l>Die mij mijn meesters geven.
+    <l>Door al te veel te spelen,
+    <l>Door al te lang te slapen,
+    <l>Door telkens rond te kijken,
+    <l>Wanneer ik op moest letten,
+    <l>Heb ik den prijs verloren.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Dat boek met mooie prentjes,
+    <l>Met groene zijden lintjes
+    <l>Heeft Jantje dat gekregen!
+    <l>Ik kan het niet vergeten,
+    <l>Maar &apos;t zal niet weer gebeuren.
+</lg></lg>
+
+
+
+<pb n=47>
+<div1 id=p30>
+<head>DE KLEPPERMAN.</head>
+
+
+<lg><lg>
+    <l>Zou ik voor den klepper vreezen,
+      <l rend="indent(1)">o! Die lieve brave man
+    <l>Maakt, dat ik gerust kan wezen,
+      <l rend="indent(1)">En ook veilig slapen kan.
+      <l rend="indent(1)">Moeder lief! &apos;k geloof het vast,
+      <l rend="indent(1)">Dat hij op de dieven past.
+</lg>
+
+<lg>
+    <l>Schoon hij loopt door wind en regen,
+      <l rend="indent(1)">&apos;t Zingen wordt hij nimmer moe:
+    <l>Goede God! geef hem uw zegen,
+      <l rend="indent(1)">Maar mijne oogjens vallen toe.
+      <l rend="indent(1)">Lieve klepper! hou de wagt
+      <l rend="indent(1)">Ik ga slapen: goede nagt!
+</lg></lg>
+
+
+
+<pb n=48>
+<div1 id=p31>
+<head>KLAASJE EN PIETJE.</head>
+
+<p>KLAASJE.
+
+<lg>
+    <l>Pietje, zo gij niet wilt deugen,
+      <l rend="indent(1)">Dan verschijnt de zwarte man.
+</lg>
+
+<p>PIETJE.
+
+<lg>
+    <l>Klaasje foei, dat is een leugen!
+      <l rend="indent(1)">Laat hem komen, als hij kan.
+      <l rend="indent(1)">Die aan zulk een man gelooft,
+      <l rend="indent(1)">Is van zijn verstand beroofd.
+</lg>
+
+
+
+<pb n=49>
+<div1 id=p32>
+<head>WINTERZANG.</head>
+
+
+<lg>
+    <l>&apos;k Zie de geele bladers vallen,
+      <l rend="indent(1)">met den zomer is &apos;t gedaan:
+    <l>En &apos;t gehuil van sneeuw en regen
+      <l rend="indent(1)">kondigt ons den winter aan.
+    <l>Ach! hoe trillen mij de leden,
+      <l rend="indent(1)">&apos;k Loop naar &apos;t hoekjen van den haart;
+    <l>Vader zegt: in zulk een koude
+      <l rend="indent(1)">dient er hout noch turf gespaard.
+    <l>o Wij hebben zo veel voorraad
+      <l rend="indent(1)">voor den schralen wintertijd;
+    <l>Daar men mij met warme kleeren
+      <l rend="indent(1)">voor den strengen vorst bevrijdt.
+    <l>Winterpeeren, kool, en appels
+      <l rend="indent(1)">boter, vlees, ja wat niet al,
+    <l>Ligt er reeds in onze kelder,
+      <l rend="indent(1)">dat ons lekker smaken zal.
+    <pb n=50><l>Mogt ik nu maar dankbaar wezen,
+      <l rend="indent(1)">over mijn gelukkig lot;
+    <l>Ja ik wil gehoorzaam leven,
+      <l rend="indent(1)">en u danken, goede God!
+    <l>Ja ik wil gedurig denken,
+      <l rend="indent(1)">als de koude mij verdriet,
+    <l>Ach! hoe menig duizend menschen
+      <l rend="indent(1)">hebben zo veel voorraad niet.
+    <l>Ja ik wil dan wat besparen,
+      <l rend="indent(1)">en wat van mijn overvloed
+    <l>Aan een arrem kindje geven,
+      <l rend="indent(1)">dat van honger schreien moet.
+</lg>
+
+
+
+<pb n=51>
+<div1 id=p33>
+<head>GODS GOEDHEID.</head>
+
+
+<lg><lg>
+    <l>God is goed, daar valt de regen
+      <l rend="indent(1)">Op het uitgedroogde land:
+    <l>Vader bad om zulk een zegen,
+                  <l rend="indent(7)">Zonder regen,
+      <l rend="indent(1)">Zegt hij, groeit geen kruid noch plant.
+</lg>
+
+<lg>
+    <l>Lieve droppels valt op de aarde!
+      <l rend="indent(1)">Valt in grooten overvloed,
+    <l>&apos;t Goud is niet van zulk een waarde
+                  <l rend="indent(7)">Voor onze aarde.
+      <l rend="indent(1)">God verhoort ons: God is goed!
+</lg></lg>
+
+
+
+<pb n=52>
+<div1 id=p34>
+<head>GODS WIJSHEID.</head>
+
+
+<lg><lg>
+    <l>God is wijs, die malsche regen
+      <l rend="indent(1)">Houdt nu op: het dorre gras
+    <l>Heeft weer zo veel vogt gekregen,
+      <l rend="indent(1)">Als voor &apos;t groeien noodig was.
+</lg>
+
+<lg>
+    <l>Viel er al te zware regen,
+      <l rend="indent(1)">Zag men nimmer zonneschijn,
+    <l>Dan zou &apos;t langer niet tot zegen,
+      <l rend="indent(1)">Maar tot schade voor ons zijn.
+</lg>
+
+<lg>
+    <l>God is wijs, die malsche regen
+      <l rend="indent(1)">Houdt weer op: de dorre grond
+    <l>Heeft nu zo veel vogt gekregen,
+      <l rend="indent(1)">Als Gods wijsheid noodig vond.
+</lg></lg>
+
+
+
+<pb n=53>
+<div1 id=p35>
+<head>DE
+EDELMOEDIGE WEDERVERGELDING</head>
+
+
+<lg><lg>
+    <l>Zou ik dan mijn zusje kwellen
+      <l rend="indent(1)">Om dat zij me niet bemint?
+    <l>Zou ik kwaad van haar vertellen?
+      <l rend="indent(1)">Neen ik denk: zij is een kind!
+</lg>
+
+<lg>
+    <l>&apos;k Zal haar van mijn lekkers geven.
+      <l rend="indent(1)">Dan wat druiven, dan een peer,
+    <l>Dan een hazelnoot zes zeven,
+      <l rend="indent(1)">En wanneer zij wil, nog meer.
+</lg>
+
+<lg>
+    <l>&apos;k Zal haar hart door liefde winnen,
+      <l rend="indent(1)">Ze is tog geen kwaadaartig kind;
+    <l>Zo lang zal ik haar beminnen,
+      <l rend="indent(1)">Tot ze in &apos;t eind mij ook bemint.
+</lg></lg>
+
+
+
+<pb n=54>
+<div1 id=p36>
+<head>HET ZIEKE KIND.</head>
+
+
+<lg><lg>
+    <l>Mijn hoofdjen! ach! het doet zo zeer!
+      <l rend="indent(1)">Het schijnt van een gespleten;
+    <l>Geen hobbelpaard vermaakt mij meer;
+    <l>En schoon men vraagt, wat ik begeer
+      <l rend="indent(1)">Ik walg van &apos;t lekkerste eeten.
+</lg>
+
+<lg>
+    <l>Al ligt geen kind zo zagt als ik,
+      <l rend="indent(1)">De rust is mij benomen.
+    <l>En slaap ik eens één oogenblik,
+    <l>Dan worde ik wakker met een schrik
+      <l rend="indent(1)">Door &apos;t akelige droomen.
+</lg>
+
+<lg>
+    <l>Nu worde ik eerst, door &apos;t geen ik mis,
+      <l rend="indent(1)">Tot dankbaarheid gedreven:
+    <l>Nu voel ik, maar met droefenis,
+    <l>Hoe veel men Gode schuldig is,
+      <l rend="indent(1)">Als men gezond mag leven.
+</lg>
+
+<lg>
+    <l>Maar o! die God is altoos goed;
+      <l rend="indent(1)">Ik wil nu dankbaar wezen,
+    <l>En schoon ik pijnen lijden moet,
+    <l>Geduldig zeggen: God is goed!
+      <l rend="indent(1)">Hij kan mij weer genezen.
+</lg></lg>
+
+
+
+<pb n=55>
+<div1 id=p37>
+<head>HET GOEDE VOORBEELD.</head>
+
+
+<lg><lg>
+    <l>Vader leeft met onze moeder
+      <l rend="indent(1)">altoos vergenoegd en blij,
+    <l>o Hoe lieven zij elkander,
+      <l rend="indent(1)">nimmer knorren zij als wij.
+</lg>
+
+<lg>
+    <l>Toont er een iets te verlangen,
+      <l rend="indent(1)">dan zegt de ander: dat is goed!
+    <l>Moeder is het best te vreden,
+      <l rend="indent(1)">als zij iets voor vader doet.
+</lg>
+
+<lg>
+    <l>Vader poogt altoos te weten
+      <l rend="indent(1)">wat de wensch van moeder is;
+    <l>En het geen haar mogt verveelen,
+      <l rend="indent(1)">geeft aan vader droefenis.
+</lg>
+
+<lg>
+    <l>Vader gaf de beste perzik
+      <l rend="indent(1)">laatst aan moeder met een zoen;
+    <l>Hij wou zelf er niet van eeten:
+      <l rend="indent(1)">Klaartje, zouden wij dit doen?
+</lg>
+
+<pb n=56><lg>
+    <l>Liefste zusje, liefste broertjes
+      <l rend="indent(1)">o het strekt ons tot verwijt,
+    <l>Dat wij dikwijls zo krakkeelen;
+      <l rend="indent(1)">ach gij weet niet hoe &apos;t mij spijt.
+</lg>
+
+<lg>
+    <l>Komt, mijn liefjes, laat ons leven
+      <l rend="indent(1)">tot elkanders nut en vreugd!
+    <l>Laat ons pogen na te volgen
+      <l rend="indent(1)">vaders liefde en moeders deugd.
+</lg>
+
+<lg>
+    <l>Daar alleen kan liefde woonen,
+      <l rend="indent(1)">daar alleen is &apos;t leven zoet,
+    <l>Waar men, blij en ongedwongen,
+      <l rend="indent(1)">voor elkander alles doet.
+</lg></lg>
+
+
+<pb n=57>
+<div1 id=p38>
+<head>PIETJE EN KEETJE.</head>
+
+
+<p>PIETJE.
+
+<lg>
+    <l>Kom mijn lieve zoete zusje,
+          <l rend="indent(3)">Geef me een kusje,
+      <l rend="indent(1)">o Ik ben zo in mijn schik!
+    <l>&apos;k Heb van moeder zo vernomen,
+    <l>Dat <hi>Camie</hi> van &apos;t school zal komen,
+      <l rend="indent(1)">Niemand is zo blij als ik.
+</lg>
+
+<p>KEETJE.
+
+<lg>
+    <l>Laat ons dan eens wat bedenken,
+          <l rend="indent(3)">Om te schenken
+      <l rend="indent(1)">Aan die allerliefste meid.
+    <l>Als wij haar maar wat vertellen,
+    <l>En geen daden dat verzellen
+      <l rend="indent(1)">Is &apos;t geen regte vrolijkheid.
+</lg>
+
+<pb n=58><p>PIETJE.
+
+<lg>
+    <l>Wel: ik heb vier mooie printjes,
+</lg>
+
+<p>KEETJE.
+
+<lg>
+          <l rend="indent(3)">Ik twee lintjes,
+      <l rend="indent(1)">Goed voor haar, gelijk ik gis.
+</lg>
+
+<p>PIETJE.
+
+<lg>
+    <l>&apos;t Zal haar, hoe gering, behagen,
+    <l>Wijl zij dan niet hoeft te vragen,
+      <l rend="indent(1)">Of &apos;t bij ons maar praaten is.
+</lg>
+
+
+
+<pb n=59>
+<div1 id=p39>
+<head>HET GEDULD.</head>
+
+
+<lg>
+    <l>Geduld is zulk een schoone zaak
+    <l>Om in een moeielijke taak
+      <l rend="indent(1)">Zijn oogwit uittevoeren;
+    <l>Dit zag ik laatst in onze kat,
+    <l>Die uuren lang gedoken zat,
+      <l rend="indent(1)">Om op een rat te loeren.
+    <l>Zij ging niet heen voor zij de rat,
+    <l>Gevangen, in haar klauwen had.
+</lg>
+
+
+
+<pb n=60>
+<div1 id=p40>
+<head>EEN GODSDIENSTIGE JEUGD
+MAAKT EEN GELUKKIGEN
+OUDERDOM.</head>
+
+
+<lg><lg>
+      <l rend="indent(1)">Die in zijn jeugd
+      <l rend="indent(1)">het pad der deugd
+    <l>Heeft ingeslagen,
+      <l rend="indent(1)">En &apos;t goede doet,
+      <l rend="indent(1)">Wagt welgemoed
+    <l>Zijne oude dagen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Maar die zijn tijd
+      <l rend="indent(1)">Onnut verslijt,
+    <l>Zijn frissche kragten
+      <l rend="indent(1)">Der zonde geeft,
+      <l rend="indent(1)">Moet, afgeleefd,
+    <l>Verdriet verwagten.
+</lg>
+
+<pb n=61><lg>
+      <l rend="indent(1)">Laat dan, o jeugd!
+      <l rend="indent(1)">Het pad der deugd,
+    <l>U vroeg behagen,
+      <l rend="indent(1)">Dan slijt ge blij,
+      <l rend="indent(1)">Van wroeging vrij
+    <l>Uwe oude dagen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Al zijtge een spot
+      <l rend="indent(1)">Van hun, die God
+    <l>Te stout veragten,
+      <l rend="indent(1)">Gij hebt veel meer
+      <l rend="indent(1)">Dan geld of eer
+    <l>Van hem te wagten.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Die God bemint
+      <l rend="indent(1)">Die wordt zijn kind;
+    <l>En moet hij sterven,
+      <l rend="indent(1)">&apos;t Zij vroeg of spaê,
+      <l rend="indent(1)">Hij zal genaê
+    <l>Bij God verwerven.
+</lg></lg>
+
+
+
+<pb n=62>
+<div1 id=p41>
+<head>DE KOOLMEES.</head>
+
+
+<lg><lg>
+    <l>Mijn knip had in den boom een uurtje pas gehangen,
+          <l rend="indent(3)">Of deze koolmees zat er in.
+    <l>Toen zei ik bij mij zelf: wat zal ik vogels vangen!
+          <l rend="indent(3)">Dat heet eerst regt een goed begin!
+</lg>
+
+<lg>
+      <l rend="indent(1)">Maar ach! het zijn wel zeven dagen,
+      <l rend="indent(1)">Ik zag in al die tijd geen vink of koolmees weer,
+      <l rend="indent(1)">Nu ben ik heel ter neer geslagen,
+      <l rend="indent(1)">Nu zeg ik bij mij zelf: er zijn geen vogels meer.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+        <l rend="indent(2)">Die al te groote dingen wagt,
+      <l rend="indent(1)">Om dat hem in &apos;t begin zijn pogingen gelukken,
+        <l rend="indent(2)">Is even dwaas, als die tot wanhoop wordt gebragt,
+      <l rend="indent(1)">Om dat hij voor een tijd voor tegenspoed moet bukken.
+</lg></lg>
+
+
+
+<pb n=63>
+<div1 id=p42>
+<head>PIETJE
+BIJ HET ZIEKBED VAN ZIJN ZUSJEN.</head>
+
+
+<lg><lg>
+    <l>Ach dat kermen, ach dat klagen
+    <l>Kan mijn teder hart niet dragen,
+      <l rend="indent(1)">Mietje lief ik voel uw pijn!
+    <l>&apos;k Zou gewillig voor u lijden,
+    <l>Kon het u van smart bevrijden,
+      <l rend="indent(1)">Of maar tot verligting zijn.
+</lg>
+
+<lg>
+    <l>Doch &apos;t is boven mijn vermogen;
+    <l>Maar ik buig, met weenende oogen,
+      <l rend="indent(1)">Biddend mijne knietjes neer.
+    <l>&ldquo;Laat mijn bede u niet mishagen
+    <l>&ldquo;Goede Jesus! hoor mijn klagen,
+      <l rend="indent(1)">&ldquo;En herstel mijn zusje weer.
+</lg>
+
+<lg>
+    <l>&ldquo;Laat haar &apos;t leven tog niet derven,
+    <l>&ldquo;Ach mijn moeder zou &apos;t besterven,
+      <l rend="indent(1)">&ldquo;Vader daalde wis in &apos;t graf.
+    <l>&ldquo;Lieve God! waar bleef tog Pietje,
+    <l>&ldquo;Naamt gij met mijn zusje Mietje
+      <l rend="indent(1)">&ldquo;Ook mijne ouders van mij af.&rdquo;
+</lg></lg>
+
+
+
+<pb n=64>
+<div1 id=p43>
+<head>HET VERHOORDE GEBED.</head>
+
+
+<lg>
+    <l>Mijn zusjen is gezond. God hoorde mijn gebed!
+    <l>En heeft tot onze vreugd mijn zusje lief gered.
+    <l>Wat zal mijn dankbaar hart dien goeden God vergelden?
+    <l>Zo groot een God wil die gedankt zijn van een kind?
+    <l>Ja! Vader zegt, dat God daar in behagen vindt,
+    <l>Dies zal ik zijnen lof, al ben ik jong, vermelden.
+</lg>
+
+
+
+<pb n=65>
+<div1 id=p44>
+<head>HET TEDERHARTIGE KIND.</head>
+
+
+<lg><lg>
+    <l>Zou ik niet mijn moeder eeren,
+      <l rend="indent(1)">Ach wat doetze niet voor mij?
+    <l>Wat mij nut is, mag ik leeren;
+      <l rend="indent(1)">Ben ik vrolijk, zij is blij.
+</lg>
+
+<lg>
+    <l>Ben ik ziek, ik hoor haar klagen;
+      <l rend="indent(1)">En wanneer zij bij mij zit
+    <l>Met het oog om hoog geslagen,
+      <l rend="indent(1)">Dan geloof ik, dat zij bidt.
+</lg>
+
+<lg>
+    <l>Ja dan bidt zij, dat ik spoedig
+      <l rend="indent(1)">Mag bevrijd zijn van mijn smart;
+    <l>Worde ik beter, hoe blijmoedig
+      <l rend="indent(1)">En hoe dankbaar is haar hart.
+</lg>
+
+<pb n=66><lg>
+    <l>Ik zal altoos haar beminnen,
+      <l rend="indent(1)">Altoos doen, dat haar behaagt.
+    <l>Nimmer wil ik iets beginnen,
+      <l rend="indent(1)">Daar mijn moeder over klaagt.
+</lg>
+
+<lg>
+    <l>&apos;k Zal haar naam met eerbied noemen,
+      <l rend="indent(1)">Als zij neerdaalt in het graf.
+    <l>En Gods goedheid altoos roemen,
+      <l rend="indent(1)">Die mij zulk een moeder gaf.
+</lg>
+
+<lg>
+    <l>Goede God! ach laat haar leven
+      <l rend="indent(1)">Tot mijn voordeel, tot mijn vreugd,
+    <l>Welk een droefheid zou &apos;t mij geven,
+      <l rend="indent(1)">Haar te missen in mijn jeugd.
+</lg></lg>
+
+
+<pb n=67>
+<div1 id=p45>
+<head>DE ONBEDAGTSAAMHEID.</head>
+
+
+<lg><lg>
+    <l>Zie Keesje! deze doode mug
+    <l>Vloog nog zo even blij en vlug,
+    <l>Maar &apos;t is door onbedagtsaamheid,
+    <l>Dat hij nu dood op tafel leit.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Hij had in &apos;t kaarslicht zulk een zin,
+    <l>En vloog er onvoorzigtig in.
+    <l>Nu ligt hij daar; maar &apos;t is te laat;
+    <l>Er is voor &apos;t mugje nu geen raad.
+    <l>Hij werd bedrogen door den schijn.
+    <l>O! laat ons dit tot leering zijn,
+    <l>Dat, eer men iets gewigtigs doet,
+    <l>Men zig wat lang bedenken moet.
+    <l>Eén uur van onbedagtsaamheid
+    <l>Kan maken dat men weeken schreit.
+</lg></lg>
+
+
+
+<pb n=68>
+<div1 id=p46>
+<head>DE VOGEL OP DE KRUK.</head>
+
+
+<lg><lg>
+    <l>Het zijn pas zes of zeven dagen,
+    <l>Dat ik dit cijsje kogt van Klaas den vogelman;
+    <l>En schoon ik in het eerst mijn moeite moest beklagen,
+    <l>Nu is er nergens geen, die beter vliegen kan.
+</lg>
+
+<lg>
+    <l>Wat zou ik vorderingen maken,
+    <l>Als ik zo leerzaam was als hij!
+    <l>Maar &apos;k zou wel haast aan &apos;t schreien raken,
+    <l>Mijn vogel, ach! veroordeelt mij.
+</lg>
+
+<lg>
+    <l>k&apos; Wil dan voordaan mij zo gedragen,
+    <l>Dat, eer ik mij tot speelen schik,
+    <l>Ik zonder vrees mij af kan vragen:
+    <l>Wie leert er beter, hij of ik?
+</lg></lg>
+
+
+<pb n=69>
+</body>
+</text>
+<text>
+<front id=frontmatter3>
+<titlePage>
+
+<docTitle><titlePart>
+TWEEDE VERVOLG
+<lb>DER
+<lb>KLEINE GEDIGTEN
+<lb>VOOR KINDEREN.</titlePart></docTitle>
+
+<byline>
+VAN
+
+<lb>MR. <docAuthor>HIERONIJMUS VAN ALPHEN</docAuthor>
+
+<docImprint>
+[Illustration]
+
+<lb><hi>TE UTREGT</hi>,
+<lb>BIJ DE WED. JAN VAN TERVEEN EN ZOON.
+
+MDCCLXXXII.
+</docImprint>
+</titlePage>
+
+<pb n=70>
+</front>
+<body>
+<div1 id=p47>
+<head>AAN MIJN KLEINE LEZERS.</head>
+
+
+<lg><lg>
+    <l>Zegt tog niet, mijn lieve wigtjes!
+      <l rend="indent(1)">Dat <hi>van Alphen</hi> u vergeet;
+    <l>&apos;k Heb, om u nog iets te geven,
+      <l rend="indent(1)">Eenige uurtjes weêr besteed.
+    <l>Mooglijk is &apos;t de laatste bundel;
+      <l rend="indent(1)">Hoort! gij hebt er ook genoeg.
+    <l>&apos;t Is in &apos;t aantal niet gelegen;
+      <l rend="indent(1)">En voor grooter is &apos;t wat vroeg.
+</lg>
+
+<lg>
+    <l>Weinig, wel, en dikwijls lezen
+      <l rend="indent(1)">Leert het best, in uwen tijd:
+    <l>Grooter boeken zultge krijgen,
+      <l rend="indent(1)">Als gij ook wat grooter zijt.
+</lg></lg>
+
+
+
+<pb n=71>
+<div1 id=p48>
+<head>JANTJE EN HET KONIJN.</head>
+
+
+<lg><lg>
+    <l>Daar zie ik een konijn!
+    <l>Wat zou &apos;k gelukkig zijn,
+    <l>Had ik het, om er meê in onzen tuin te loopen,
+    <l>Zei Jan: maar schoon &apos;k mijn geld
+    <l>Al driemaal heb geteld,
+    <l>Ik heb te weinig om dat lieve dier te koopen;
+    <l>En schoon mij dit aan &apos;t harte gaat,
+    <l>Ik weet geen raad!....
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Wel! laat u dit geval dan leeren,
+    <l>Mijn lieve Jan!
+    <l>Dat een verstandig kind geen dingen moet begeeren,
+    <l>Die hij te voren weet, dat hij niet krijgen kan.
+</lg></lg>
+
+
+
+<pb n=72>
+<div1 id=p49>
+<head>DE ZINGENDE WILLEM.</head>
+
+<head>MORGENLIED.</head>
+
+
+<lg><lg>
+    <l>Bij &apos;t opgaan van de zon
+    <l>Zat Willem aan een bron,
+    <l>Van goeder hart, te zingen;
+    <l>Hij had den afgelopen nagt
+    <l>Verkwikkend doorgebragt;
+    <l>En kon zig langer niet bedwingen.
+    <l>God, riep hij, is zo goed,
+    <l>Dat ik hem loven moet!
+</lg>
+
+<lg>
+    <l>Magtige Schepper! u heb ik te danken,
+      <l rend="indent(1)">Dat ik ontwaakte gezond en verheugd.
+    <l>Wijze Bestierder! &apos;k heb Jesus te danken,
+      <l rend="indent(1)">Dat ik u kenne in het eerst van mijn jeugd.
+</lg>
+
+<lg>
+    <l>Prijst u de morgen, ik zal u ook eeren,
+      <l rend="indent(1)">Dat gij mij gunstig in &apos;t leven bewaart;
+    <l>Prijst u de morgen, ach mogtze mij leeren,
+      <l rend="indent(1)">Heilig en dankbaar te leven op aard.
+</lg>
+
+<pb n=73><lg>
+    <l>Naarstig, gehoorzaam, en vrolijk te wezen,
+      <l rend="indent(1)">Is me tot voordeel en &apos;t is uw gebod.
+    <l>Vriendlijke Schepper! wie zou u niet vreezen!
+      <l rend="indent(1)">Wie u niet eeren, almagtige God!
+</lg>
+
+<lg>
+    <l>Van u alleen moet ik alles verwagten;
+      <l rend="indent(1)">Wie is als gij algenoegsaam en mild.
+    <l>&apos;k Wil dan van daag uwe wetten betragten;
+      <l rend="indent(1)">Daar gij ook kinderen zegenen wilt.
+</lg></lg>
+
+
+
+<pb n=74>
+<div1 id=p50>
+<head>DE KLEINE ZANGSTER.</head>
+
+<head>AVONDLIED.</head>
+
+
+<lg><lg>
+    <l>Het licht der zon
+    <l>Begon
+    <l>Alreê te kwijnen;
+    <l>De maan
+    <l>Ving aan
+    <l>Zo schoon als ooit te schijnen;
+    <l>Toen lieve Cris,
+    <l>Een meid, naar &apos;k gis,
+    <l>Van agt of negen jaren,
+    <l>Haar kleine citer nam,
+    <l>En hupplend bij mij kwam;
+    <l>Zij paarde lagchend stem en snaren;
+    <l>En zong het vrolijk avondlied,
+    <l>Dat gij hier uitgeschreven ziet.
+</lg>
+
+<lg>
+        <l rend="indent(2)">De zon moog haar stralen
+        <l rend="indent(2)">In &apos;t westen doen dalen,
+          <l rend="indent(3)">Dit geeft mij geen smart:
+        <l rend="indent(2)">God heeft ook geschapen
+        <l rend="indent(2)">Den nagt om te slapen,
+          <l rend="indent(3)">Dies looft Hem mijn hart.
+</lg>
+
+<pb n=75><lg>
+    <l>Hoe donker &apos;t mag wezen,
+    <l>&apos;k Behoef niet te vreezen
+      <l rend="indent(1)">In &apos;t holst van den nagt.
+    <l>God zal voor mij zorgen,
+    <l>Tot dat mij de morgen
+      <l rend="indent(1)">Weêr vrolijk verwagt.
+</lg>
+
+<lg>
+    <l>Geen leed zal mij naken:
+    <l>God wil mij bewaken,
+      <l rend="indent(1)">Al ben ik een kind.
+    <l>God toont, door mij &apos;t leven
+    <l>En voedsel te geven,
+      <l rend="indent(1)">Hoe Hij me bemint.
+</lg>
+
+<lg>
+    <l>Het starrengeflonker
+    <l>Vervrolijkt het donker;
+      <l rend="indent(1)">De lichtende maan
+    <l>Begint op de weiden
+    <l>Haar glanssen te spreiden,
+      <l rend="indent(1)">En speelt door de blaên.
+</lg>
+
+<pb n=76><lg>
+    <l>Al ziet men geen kleuren,
+    <l>Men wordt tog door geuren
+      <l rend="indent(1)">Verkwikt waar men gaat,
+    <l>&apos;k Hoor zelfs in seringen
+    <l>Den nagtegaal zingen,
+      <l rend="indent(1)">En &apos;t kwarteltje slaat.
+</lg>
+
+<lg>
+    <l>Mag ik u verhoogen,
+    <l>Dan sluit ik mijne oogen
+      <l rend="indent(1)">Gerust, o mijn God!
+    <l>U eere te geven,
+    <l>En dankbaar te leven,
+      <l rend="indent(1)">Is &apos;t zaligste lot.
+</lg></lg>
+
+
+
+<pb n=77>
+<div1 id=p51>
+<head>DE VERKEERDE VREES.</head>
+
+
+<lg><lg>
+    <l>Keesje zag eens Joden loopen,
+    <l>Om <hi>wat ouds! wat ouds!</hi> te koopen:
+      <l rend="indent(1)">Hij werd bang, ja bleek van schrik;
+    <l>Hij kroop weg, en ging aan &apos;t huilen.
+    <l>Pietje spotte met dat schuilen;
+      <l rend="indent(1)">En zei lagchend: doe als ik!
+</lg>
+
+<lg>
+    <l>Kees zei: zoudt gij niet ontstellen,
+    <l>Als gij hun eens aan zaagt bellen?
+      <l rend="indent(1)">Neen ik tog, zei Pietje toen:
+    <l>Waarom zou ik altoos vreezen?
+    <l>Men behoeft slegts bang te weezen,
+      <l rend="indent(1)">Als men voorneemt kwaad te doen.
+</lg></lg>
+
+
+
+<pb n=78>
+<div1 id=p52>
+<head>DE LIEFDE TOT HET VADERLAND.</head>
+
+
+<lg>
+    <l>Al ben ik maar een kind,
+    <l>Tog wordt mijn Vaderland van mij op &apos;t hoogst bemind;
+    <l>Ik werd er in geboren;
+    <l>Ik heb er drank en spijs;
+    <l>Ik mag er &apos;t onderwijs
+    <l>Van wijze meesters hooren.
+    <l>Ik heb er ouders, vrienden in,
+    <l>Die ik met al mijn hart bemin;
+    <l>Ik kan er veilig woonen;
+    <l>Dies zal ik dankbaar mij betoonen;
+    <l>En, worde ik eens een man,
+    <l>Zo nuttig zijn voor &apos;t land, als ik maar wezen kan.
+</lg>
+
+
+
+<pb n=79>
+<div1 id=p53>
+<head>DE VEGTENDE JONGENS.</head>
+
+
+<p>GIJSJE.
+
+<lg>
+        <l rend="indent(2)">Laat ons dezen twist beslegten,
+        <l rend="indent(2)">Door eens moedig saam te vegten!
+</lg>
+
+<p>KLAASJE.
+
+<lg>
+        <l rend="indent(2)">&apos;k Wil niet; &apos;k heb geen lust in slaan;
+        <l rend="indent(2)">Maar laat ons naar Vader gaan;
+        <l rend="indent(2)">&apos;k Wil u niet verongelijken;
+        <l rend="indent(2)">Vader mag het vonnis strijken.
+</lg>
+
+<p>GIJSJE.
+
+<lg>
+        <l rend="indent(2)">Laffe jongen, zonder moed!
+</lg>
+
+<p>KLAASJE.
+
+<lg>
+        <l rend="indent(2)">O! bedenk eerst watge doet.
+</lg>
+
+<pb n=80><p>GIJSJE.
+
+<lg>
+        <l rend="indent(2)">&apos;k Vat u aanstonds bij de kleêren:
+</lg>
+
+<p>KLAASJE.
+
+<lg>
+        <l rend="indent(2)">Wagt u, &apos;k zou mij dan verweeren;
+        <l rend="indent(2)">&apos;k Ben zo min bevreesd als gij.
+</lg>
+
+<p>GIJSJE.
+
+<lg>
+        <l rend="indent(2)">Is dat waar, kom dan ter zij!
+</lg>
+
+<p>KLAASJE.
+
+<lg>
+        <l rend="indent(2)">Neen: daar zal ik mij voor wagten;
+        <l rend="indent(2)">Maar uw dreigen <hi>hier</hi> veragten.
+        <l rend="indent(2)">Ha! geen dwaasheid is zo groot,
+        <l rend="indent(2)">Dan te vegten zonder nood.
+</lg>
+
+<lg>
+    <l>Hier werden zij gestoord.
+    <l>Papa lief had het juist gehoord.
+    <l>Hij die een krijgsman was, en dikwijls in zijn leven
+    <l>Van zijn beleid en moed veel proeven had gegeven,
+    <l>Zei: &apos;t is de beste held; hij heeft den grootsten moed;
+    <l>Die dapper vegten kan, maar &apos;t nooit onnoodig doet.
+</lg>
+
+
+
+<pb n=81>
+<div1 id=p54>
+<head>HET ONWEDER.</head>
+
+
+<lg><lg>
+        <l rend="indent(2)">Hoe schoon schiet daar de bliksem neêr!
+                  <l rend="indent(7)">Hoe statig rolt de donder!
+    <l>De wolken pakken saam, of drijven heen en weêr;
+    <l>Terwijl ik in dat al, gedugte Hemelheer!
+                  <l rend="indent(7)">Uw Majesteit bewonder.
+</lg>
+
+<lg>
+        <l rend="indent(2)">Nu is &apos;t voorbij: een frissche lugt
+    <l>Omringt mij, waar ik ga, en doet de vogels zingen.
+    <l>Ik zie een nieuwen glans op boom en veld en vrugt;
+                <l rend="indent(5)">Maar, eeuwig God! gij blijft gedugt,
+                  <l rend="indent(7)">Zelfs in uw zegeningen.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Wat zie ik, Caatje! hoe, gij beeft?
+        <l rend="indent(2)">Ach wilt daar nooit voor vreezen!
+    <l>&apos;t Is een geschenk, dat God ons geeft,
+    <l>En daarom, lieve meid, moest Caatje dankbaar wezen.
+</lg></lg>
+
+
+
+<pb n=82>
+<div1 id=p55>
+<head>CLAARTJE</head>
+
+<head type=sub>BIJ DE SCHILDERIJ VAN HARE
+OVERLEDENE MOEDER.</heaD>
+
+
+<lg><lg>
+    <l>Wanneer ik neêrgezeten
+    <l>Bedaard het beeld aanschouwe
+    <l>Van mijne lieve moeder,
+    <l>Dan rollen mij de tranen
+    <l>Gestadig langs de wangen.
+    <l>Dat lief en lagchend wezen,
+    <l>Waar godvrugt en opregtheid
+    <l>Bevalligheid en blijdschap
+    <l>Zo klaar op is te lezen,
+    <l>Doet mij dan bitter schreien,
+    <l>Om dat ik haar moet missen;
+    <l>Ik&mdash;nog geen negen jaren.
+    <l>Wat heb ik niet al uurtjes
+    <l>Met nut bij haar gezeten,
+    <l>Wanneer zij mij, al spelend,
+    <l>Het een en ander leerde.
+    <pb n=83><l>Maar &apos;t zal mij altoos heugen,
+    <l>Hoe zij mij bij haar sterven
+    <l>Voor &apos;t laatst nog eens omhelsde.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Ik kan er niet aan denken,
+      <l rend="indent(1)">En &apos;k doe het tog zo gaarne.
+</lg>
+
+<lg>
+    <l>Toen zeize: &ldquo;lieve Claartje!
+    <l>&ldquo;Uw moeder zal haast sterven,
+    <l>&ldquo;En van deze aarde scheiden,
+    <l>&ldquo;Om in den blijden Hemel
+    <l>&ldquo;Bij de engelen te woonen;
+    <l>&ldquo;Hoor dan mijn laatste woorden,
+    <l>&ldquo;En geef mij &apos;t laatste kusje.
+</lg>
+
+<lg>
+      <l rend="indent(1)">&ldquo;Eert God, bemin uw vader!
+    <l>&ldquo;Groei op in deugd en wijsheid!
+    <l>&ldquo;En wiltge vrolijk leven,
+    <l>&ldquo;Leer vroeg de zonden haten.
+    <l>&ldquo;Maar hebt ge eens kwaad bedreven,
+    <l>&ldquo;Dan moetge &apos;t gul belijden;
+    <l>&ldquo;En God om Jesus wille
+    <l>&ldquo;Zal u vergeving schenken.
+    <l>&ldquo;Maar zietge dan, mijn Claartje!
+    <l>&ldquo;Op aarde mij niet weder,
+    <pb n=84><l>&ldquo;Zie dikwijls naar den hemel,
+    <l>&ldquo;En zeg&mdash;daar woont mijn moeder.
+    <l>&ldquo;Ach, zag ik na uw sterven
+    <l>&ldquo;Mijn kind ook daar verschijnen,
+    <l>&ldquo;Hoe zou ik mij verblijden,
+    <l>&ldquo;En God eerbiedig danken.
+    <l>&ldquo;Voor u, mijn lieve Claartje!
+    <l>&ldquo;Is ook de hemel open.
+</lg>
+
+<lg>
+      <l rend="indent(1)">&ldquo;Maar ach; mijn lieve meisje!
+    <l>&ldquo;Ik voel den dood genaken,
+    <l>&ldquo;En kan niet langer spreken.
+    <l>&ldquo;Vaarwel, vaarwel dan, Claartje!
+    <l>&ldquo;Daar hebtge &apos;t laatste kusje!&rdquo;
+</lg>
+
+<lg>
+      <l rend="indent(1)">&apos;k Ging schreiend naar beneden;
+    <l>En &apos;t duurde weinige uuren,
+    <l>Of moeder was gestorven.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Wanneer ik nu, gezeten
+    <l>Bij &apos;t beeld van mijne moeder,
+    <l>Aan haren dood gedenke,
+    <l>Dan rollen mij gestadig
+    <l>De tranen langs de wangen.
+    <l>Dan zie ik naar den hemel,
+    <pb n=85><l>De woonplaats mijner moeder;
+    <l>Dan roep ik, bitter schreiend,
+    <l>o God, hebt gij die moeder
+    <l>Aan mij zo vroeg ontnomen,
+    <l>U mag ik niet berispen,
+    <l>Hoe zeer ik haar betreure;
+    <l>Neen, gij zijt wijs en heilig,
+    <l>Mag ik u maar beminnen,
+    <l>Mijn lieven Vader eeren,
+    <l>En moeders lessen volgen,
+    <l>Dan zal ik bij mijn sterven
+    <l>Bij U en moeder komen.
+    <l>Wat zal dat zalig wezen!
+</lg></lg>
+
+
+
+<pb n=86>
+<div1 id=p56>
+<head>DE VERWELKTE ROOS.</head>
+
+
+<lg><lg>
+    <l>Waarom verwelkt de roos zo ras?
+    <l>Zei Jantjen: och of &apos;t anders was!
+    <l>God wierd ook, dunktme, meer geprezen
+    <l>Zoo &apos;t roosje langer bleef in wezen.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Al denktge, datge &apos;t wel doorziet,
+    <l>Mijn lieve Jan! het is zo niet.
+    <l>De Schepper weet het best van allen,
+    <l>Waarom &apos;t zo schielijk af moet vallen;
+    <l>En wil ook, datge gadeslaat,
+    <l>Hoe ras het aardsche schoon vergaat.
+    <l>De Schepper, dien &apos;t ons past te vreezen
+    <l>Wordt door bedillen nooit geprezen.
+</lg></lg>
+
+
+<pb n=87>
+<div1 id=p57>
+<head>MIETJE
+BIJ
+HET CLAVECIMBAAL.</head>
+
+
+<lg><lg>
+    <l>Die liefelijke toonen
+      <l rend="indent(1)">Behagen mij alrêe;
+    <l>Al heb ik weinig jaren,
+      <l rend="indent(1)">Ik zing zo graag eens meê.
+    <l>Wanneer mijn oudste broêrtjen
+      <l rend="indent(1)">Op &apos;t clavecimbaal speelt,
+    <l>Dan vraagt hij mij, al spottend,
+      <l rend="indent(1)">Of &apos;t mij niet ras verveelt?
+    <l>Dan zeg ik, lieve jongen!
+      <l rend="indent(1)">o Speel tog lang voor mij!
+    <l>Mogt ik het ook maar leeren,
+      <l rend="indent(1)">Ik deed mijn best als gij.
+    <l>Eergistren was ik jarig,
+      <l rend="indent(1)">En moeder vroeg mij toen,
+    <l>Wat ik van haar begeerde;
+      <l rend="indent(1)">Ik gaf haar eerst een zoen,
+    <pb n=88><l>En zei: mijn lief mamaatje!
+      <l rend="indent(1)">Bewijs mij deze gunst,
+    <l>Dat ik mag leeren speelen,
+      <l rend="indent(1)">En zingen naar de kunst.
+    <l>Zij nam mij in haar armen,
+      <l rend="indent(1)">En zei: in &apos;t nieuwejaar.
+    <l>Nu brande ik van verlangen,
+      <l rend="indent(1)">Ach kwam de meester maar.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>De jeugd spant zig met speelen
+      <l rend="indent(1)">En zingen nuttig uit,
+    <l>En is men moê van &apos;t leeren,
+      <l rend="indent(1)">Dan geeft dit lief geluid
+    <l>Weêr nieuwen lust en kragten;
+      <l rend="indent(1)">Zo leeft men blij en zoet;
+    <l>En schuwt met vreugd gezelschap,
+      <l rend="indent(1)">Dat dikwijls doolen doet.
+</lg></lg>
+
+
+
+<pb n=89>
+<div1 id=p58>
+<head>HET VERSTANDIG ANTWOORD.</head>
+
+
+<lg>
+    <l>Gij vraagt mij, waarom ik aan God gehoorzaam ben:
+    <l>&apos;t Is daarom, dat ik Hem als wijs en goed erken.
+    <l>Hij heeft aan ons zijn wet uit liefde alleen gegeven,
+    <l>Op dat wij vergenoegd en vrolijk zouden leven;
+    <l>En al wat ons die wet verbiedt,
+    <l>Is, hoe&apos;t ook schijnen mag, ten onzen voordeel niet,
+    <l>Wil iemand dan gelukkig wezen,
+    <l>Die leer gehoorzaam God te vreezen.
+</lg>
+
+
+
+<pb n=90>
+<div1 id=p59>
+<head>HET GEWETEN.</head>
+
+
+<lg>
+    <l>Nooit heb ik meer vermaak, dan als ik mijnen pligt
+                  <l rend="indent(7)">Blijmoedig heb verrigt.
+    <l>Dan smaakt het eeten best; dan kan ik vrolijk springen;
+                  <l rend="indent(7)">En blijde liedjes zingen;
+    <l>Maar ben ik traag of stout, dan ben ik niet gerust;
+                  <l rend="indent(7)">Dan heb ik geenen lust
+    <l>In spijs, in drank, of spel; dan wordt mij door &apos;t geweten
+                  <l rend="indent(7)">Geduuriglijk verweten,
+    <l>Dat ik een slegtaart ben, en dat ik nooit een man,
+                  <l rend="indent(7)">Zoo doende, worden kan.
+</lg>
+
+
+
+<pb n=91>
+<div1 id=p60>
+<head>EEN BRIEF VAN CAREL
+AAN ZIJN ZUSJE CAATJE.</head>
+
+
+<lg>
+    <l>Zusje lief! ik laat u weten,
+      <l rend="indent(1)">Dat ik, sedert uw vertrek,
+    <l>In mijn kamer heb gezeten,
+      <l rend="indent(1)">Meid lief! met een stijve nek.
+    <l>&apos;k Dagt, ik zal u tog eens schrijven,
+      <l rend="indent(1)">Want het weder is zo guur,
+    <l>Dat ik steeds in huis moet blijven,
+      <l rend="indent(1)">En dat smaakt niet op den duur,
+    <l>&apos;k Heb met u vrij wat te praten;
+      <l rend="indent(1)">Dikwijls denk ik, wasze hier!
+    <l>Maar dat denken kan niet baten,
+      <l rend="indent(1)">Daarom praat ik op &apos;t papier.
+    <l>Schrijven, moet men, zegt Papaatje,
+      <l rend="indent(1)">Even zo, als of men praat;
+    <l>Daarom zal ik, lieve Caatje,
+      <l rend="indent(1)">U vertellen, hoe &apos;t mij gaat.
+    <pb n=92><l>&apos;k Was eerst knorrig, dat Clorinde
+      <l rend="indent(1)">U van huis en met zig nam;
+    <l>&apos;k Was wel blij, datze u beminde,
+      <l rend="indent(1)">Maar wat doetze te Amsterdam,
+    <l>Zei ik&mdash;wasze hier gebleven;
+      <l rend="indent(1)">&apos;k Had haar graag mijn beste prent
+    <l>Voor een nieuwejaar gegeven;
+      <l rend="indent(1)">O wij zijn zo saam gewend.
+    <l>Maar wat hielp tog al dat klagen,
+      <l rend="indent(1)">Caatje zus was heen gegaan:
+    <l>&apos;k Wende dies, in weinig dagen,
+      <l rend="indent(1)">Schoon uit nood, daar langsaam aan.
+    <l>Daarop, door me in &apos;t zweet te loopen,
+      <l rend="indent(1)">Heb ik zware kou gevat;
+    <l>&apos;k Moest dat speelen duur bekopen,
+      <l rend="indent(1)">Ach, wat heb ik pijn gehad:
+    <l>&apos;k Mogt dan dit, dan dat niet eeten;
+      <l rend="indent(1)">&apos;k Sliep ook somtijds niet van pijn;
+    <l>En ik wou geduurig weeten,
+      <l rend="indent(1)">Of het haast gedaan zou zijn.
+    <l>&apos;k Had geen lust in lezen, schrijven,
+      <l rend="indent(1)">Ja zelfs in mijn prenten niet;
+    <pb n=93><l>En zo lang in &apos;t bed te blijven
+      <l rend="indent(1)">Gaf mij telkens veel verdriet.
+    <l>Vader wilde mij vermaken;
+      <l rend="indent(1)">Moeder lief deed, watze kon;
+    <l>Maar zij moesten &apos;t schielijk staken,
+      <l rend="indent(1)">&apos;k Was &apos;t al moede eer ik begon,
+    <l>&apos;k Vreesde dat het nooit zou lukken,
+      <l rend="indent(1)">En wanneer ik ledig zat,
+    <l>Kreeg ik bijster kwade nukken,
+      <l rend="indent(1)">Wijl ik geen geduld meer had.
+    <l>&apos;k Zei in &apos;t eind&mdash;dat ledig wezen
+      <l rend="indent(1)">Kan tog nooit voordeelig zijn.
+    <l>&apos;k Nam een boek; ik ging wat lezen;
+      <l rend="indent(1)">En ik voelde minder pijn.
+    <l>Ook begon ik wat te schrijven,
+      <l rend="indent(1)">En wanneer ik prenten zag,
+    <l>Kon ik op mijn kamer blijven,
+      <l rend="indent(1)">Met vermaak, den heelen dag.
+    <l>Vader zag mij eens beginnen
+      <l rend="indent(1)">Aan een kleine teekening,
+    <l>Moeder lief kwam daar op binnen,
+      <l rend="indent(1)">Om te zien hoe &apos;t met mij ging.
+    <pb n=94><l>&apos;k Was, zij zagen &apos;t, wel te vrede;
+      <l rend="indent(1)">&apos;k Was niet knorrig als voorheen;
+    <l>&apos;k Praatte nu en dan eens mede;
+      <l rend="indent(1)">&apos;k Zei niet kort af <hi>ja</hi> of <hi>neen</hi>.
+    <l>Zo versleet ik gandsche dagen,
+      <l rend="indent(1)">Schoon op ver na niet hersteld,
+    <l>Maar dat kniezen en dat klagen,
+      <l rend="indent(1)">Heeft mij sinds niet meer gekweld.
+    <l>Vader zegt, &apos;t kan meer gebeuren,
+      <l rend="indent(1)">Dat ik niet welvarend ben;
+    <l>Maar ik zal te minder treuren,
+      <l rend="indent(1)">Hoe ik meer daar aan gewen.
+    <l>Die zig naar Gods wil kan voegen,
+      <l rend="indent(1)">(Zegt hij) met een stil gemoed,
+    <l>Smaakt in ziekte zelfs genoegen;
+      <l rend="indent(1)">God is altijd wijs en goed.
+    <l>Nu vaarwel, aanminnig meisjen!
+      <l rend="indent(1)">Ieder in ons huis verlangt,
+    <l>Datge een eind maakt van uw reisjen,
+      <l rend="indent(1)">Als gij dezen brief ontfangt.
+</lg>
+
+
+
+<pb n=95>
+<div1 id=p61>
+<head>DE ZWALUWEN.</head>
+
+<head type=sub>EENE VERTELLING.</head>
+
+
+<lg>
+    <l>Kees zou voor &apos;t eerst naar school toe gaan,
+    <l>Maar was de stoep pas afgetreden,
+    <l>Of &apos;t scheen, hij was niet wel te vreden;
+    <l>En bleef, het hoofd om hoog, een poos verwonderd staan.
+    <l>Hij zag de zwaluwen zo heen en weder zweeven,
+    <l>En zei, dat heet eerst regt op zijn vermaak te leven.
+    <l>Een man die zig op straat bevond,
+    <l>En Keesjes meening ras verstond,
+    <l>Trok hem, al lagchend, wat ter zijden;
+    <l>En zei: wel weetge niet, dat zij dit moeten doen,
+    <l>Zij vangen vliegjes, om hun jongen mee te voen,
+    <l>Die anders honger moesten lijden.
+    <l>Noemt gij dit slegts vermaak, neen Keesje! dat is mis,
+    <l>Maar weet gij wat hier uit voor u te leeren is?
+    <pb n=96><l>Zij kunnen, door dit lustig zweven,
+    <l>Aan u een voorbeeld geven,
+    <l>Hoe men met vlijt en vreugd zijn werk verrigten moet:
+    <l>En dat het lelijk staat, als men &apos;t gedwongen doet.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>Ik loop naar school, zei Kees: die les is zeker goed!
+</lg>
+
+
+
+<pb n=97>
+<div1 id=p62>
+<head>DE ZON.</head>
+
+
+<lg>
+    <l>Als ik de zon zie schijnen,
+    <l>Die met haar lieve stralen
+    <l>Deze aarde vrolijk koestert;
+    <l>Op dat er kruiden groeien,
+    <l>Om vee en mensch te spijzen;
+    <l>Die &apos;t licht ons doet genieten,
+    <l>Om tog verheugd te werken,
+    <l>En vergenoegd te leven;
+    <l>Dan denk ik, met aanbidding,
+    <l>Hoe groot moet God niet weezen!
+    <l>Die zon heeft hij geschapen!
+    <l>En dat uit enkel liefde!
+</lg>
+
+
+
+<pb n=98>
+<div1 id=p63>
+<head>HET LIJK.</head>
+
+
+<lg><lg>
+    <l>Mijn lieve kinders, schrikt tog niet,
+    <l>Wanneer gij dode menschen ziet;
+        <l rend="indent(2)">Zoudt gij voor lijken beven?
+    <l>Kom hier: deez bleke koude man,
+    <l>Die voelen, zien, noch horen kan,
+        <l rend="indent(2)">Houdt nu niet op te leven.
+</lg>
+
+<lg>
+    <l>Hij denkt en werkt&mdash;ja meer dan gij;
+    <l>Maar met geen ligchaam zo als wij.
+      <l rend="indent(1)">De ziel is weg van de aarde.
+    <l>Die God, dien hij hier heeft gevreesd,
+    <l>Is bij hem in zijn dood geweest;
+      <l rend="indent(1)">En houdt dit lijk in waarde.
+</lg>
+
+<pb n=99><lg>
+    <l>Al is de ziel van &apos;t ligchaam af,
+    <l>Al daalt het lijk in &apos;t donker graf,
+      <l rend="indent(1)">Dat moet u niet doen ijzen.
+    <l>Gelooft het tog, de goede God
+    <l>Zal zelfs dit lelijk overschot
+      <l rend="indent(1)">Veel schooner doen verrijzen.
+</lg>
+
+<lg>
+    <l>Ach, lieve kinders! zegt dan niet;
+    <l>Wat is dat sterven een verdriet!
+      <l rend="indent(1)">Mogt ik maar altoos leven!
+    <l>Wanneer ge God bemint en dient,
+    <l>Dan voert de dood u, als een vriend,
+      <l rend="indent(1)">In &apos;t eeuwig zalig leven.
+</lg>
+
+<lg>
+    <l>En komt dan eens de jongste dag,
+    <l>Dan zal het ligchaam, dat daar lag,
+      <l rend="indent(1)">Zig levend weêr vertoonen.
+    <l>Dan voeren de Englen van beneên
+    <l>U zingend naar den Hemel heên,
+      <l rend="indent(1)">Om eeuwig daar te woonen.
+</lg>
+
+<pb n=100><lg>
+    <l>Mijn lieve kinders schrikt dan niet,
+    <l>Wanneer gij doode menschen ziet;
+      <l rend="indent(1)">Zoudt gij voor lijken beven?
+    <l>Zegt liever vrolijk&mdash;deze man,
+    <l>Die hier niet zien of hooren kan,
+      <l rend="indent(1)">Mag in den hemel leven.
+</lg></lg>
+
+
+
+<pb n=101>
+<div1 id=p64>
+<head>HET VOGELNESTJEN.</head>
+
+<head type=sub>EENE VERTELLING.</head>
+
+
+<lg><lg>
+    <l>Mietje had eens, onder &apos;t wandlen,
+    <l>Een verholen vogelnestjen
+    <l>In een dorenhaag gevonden.
+    <l>&apos;k Heb nu, zeize, mijn verlangen:
+    <l>o Hoe zal ik mij vermaken,
+    <l>Met die lieve kleine diertjes!
+    <l>Aanstonds ga ik thuis wat halen,
+    <l>Om dit nestjen in te bergen.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Mietje liep en zag haar moeder,
+    <l>Die zij hijgend dit vertelde:
+</lg>
+
+<lg>
+      <l rend="indent(1)">Lieve Mietje, zei de moeder,
+    <l>Stoort tog nimmer vogelnestjes!
+    <l>Denk maar eens, hoe de oude vogels
+    <l>Om dat stooren zouden treuren;
+    <l>Zoudt, gij, Mietje lief, niet schreien,
+    <l>Als men u, met Piet en Jetje,
+    <l>Tegen wil en dank vervoerde;
+    <l>Mietje lief, hebt medelijden,
+    <pb n=102><l>Met die oude lieve vogels!
+    <l>Zoek tog nimmer uw genoegen
+    <l>In de droefheid van een ander.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Neen, zei Mietje, lieve moeder!
+    <l>Neen dat niet! maar hoorze eens schreeuwen;
+    <l>Ach zij hebben zulken honger!
+</lg>
+
+<lg>
+      <l rend="indent(1)">Denk niet meisje, zei de moeder,
+    <l>Dat zij juist van honger schreeuwen.
+    <l>Ach zij zouden zeker sterven,
+    <l>Als gij hun zo lang woudt spijzen,
+    <l>Totze niet meer konden schreeuwen.
+    <l>Maar wiltge u eens regt vermaken,
+    <l>En eens zien hoe de ouden zorgen
+    <l>Om hen juist zo veel te geven,
+    <l>Als die diertjes noodig hebben,
+    <l>Zet u slegts in stilte neder,
+    <l>En ge zult dan schielijk merken,
+    <l>Dat zij vliegjes, mugjes, wormpjes
+    <l>Vangen en in &apos;t nestje brengen.
+    <l>o De goede wijze Schepper
+    <l>Heeft zo wel aan deze vogels
+    <l>Ouders, als aan u, gegeven:
+    <pb n=103><l>Dezen weten altoos beter,
+    <l>Wat de kinders noodig hebben,
+    <l>Om dat zijze &apos;t meest beminnen.
+    <l>Ja die zullen nooit verzuimen,
+    <l>Hun têerhartig te verzorgen;
+    <l>Daar toe heeft hun God de liefde
+    <l>Voor hun jongen ingeschapen;
+    <l>En gij moet niet wijzer wezen,
+    <l>Dan de goede en wijze Schepper.
+</lg>
+
+<lg>
+      <l rend="indent(1)">Mietje hoorde naar haar moeder;
+    <l>Maar ging dikwijls zagtkens kijken
+    <l>Naar het groeien van de jongen,
+    <l>Zonder &apos;t nestjen ooit te stooren.
+</lg></lg>
+
+
+
+<pb n=104>
+<div1 id=p65>
+<head>FLIPJE, DE VADER, EN DE
+TUINMAN.</head>
+
+
+<p>FLIPJE.
+
+<lg>
+    <l>Wel waarom snoeitge nog de boomen,
+                  <l rend="indent(7)">Zeg trouwe Piet?
+    <l>Daar aan die takjes vrugt zou komen,
+                  <l rend="indent(7)">Gelijkge ziet.
+</lg>
+
+<p>DE TUINMAN.
+
+<lg>
+    <l>Een boom, die al te veel moet dragen,
+                  <l rend="indent(7)">Verliest zijn kragt;
+    <l>Ook zou de vrugt zo niet behagen,
+                  <l rend="indent(7)">Als gij verwagt.
+    <l>Uw vader heeft graag goede peeren:
+</lg>
+
+<p>DE VADER.
+
+<lg>
+                  <l rend="indent(7)">&apos;t Is wel gezegd:
+    <l>En &apos;t deel van die te veel begeeren
+                  <l rend="indent(7)">Is doorgaands slegt.
+</lg>
+
+
+
+<pb n=105>
+<div1 id=p66>
+<head>DE EENZAAMHEID.</head>
+
+
+<lg><lg>
+    <l>Denk niet, lieve speelgenooten!
+    <l>Dat de tijd mij heeft verdroten,
+      <l rend="indent(1)">Toen ik gistren zat alleen.
+    <l>Die vermaak heeft in het lezen,
+    <l>Hoeft geen eenzaamheid te vreezen,
+      <l rend="indent(1)">Maar is altoos wel te vreên.
+</lg>
+
+<lg>
+    <l>Vader zegt, dat brave menschen
+    <l>Dikwijls naar die uurtjes wenschen;
+      <l rend="indent(1)">Dikwijls naar hun kamer gaan,
+    <l>Om in oude en nieuwe boeken
+    <l>Wijze lessen optezoeken:
+      <l rend="indent(1)">En dat staat mij wonder aan.
+</lg>
+
+<lg>
+    <l>&apos;k Wou zo graag verstandig wezen,
+    <l>En ik worde ook graag geprezen,
+      <l rend="indent(1)">&apos;k Zeg, zo als het bij mij leit:
+    <l>Dient er dan, om veel te weten,
+    <l>Menig uurtje nog gesleten,
+      <l rend="indent(1)">Welkom! welkom! eenzaamheid!
+</lg></lg>
+
+
+<pb n=106>
+</body>
+<back id=backmatter>
+<div1 id=toc type=Contents>
+<head>LIJST
+DER
+KLEINE GEDICHTEN.</head>
+
+
+<p>
+<table>
+    <row><cell>                                                           <cell>Bladz.
+    <row><cell><ref target=p01>AAN TWEE LIEVE KLEINE JONGENS</ref>.       <cell>  5
+    <row><cell><ref target=p02>HET KINDERLIJK GELUK</ref>.                <cell>  6
+    <row><cell><ref target=p03>DE PERZIK</ref>.                           <cell>  7
+    <row><cell><ref target=p04>DE KINDERLIEFDE</ref>.                     <cell>  8
+    <row><cell><ref target=p05>ALEXIS</ref>.                              <cell>  9
+    <row><cell><ref target=p06>DE WAARE RIJKDOM</ref>.                    <cell> 10
+    <row><cell><ref target=p07>HET VROLIJK LEEREN</ref>.                  <cell> 11
+    <row><cell><ref target=p08>HET MEDELIJDEN</ref>.                      <cell> 12
+    <row><cell><ref target=p09>DE NAARSTIGHEID</ref>.                     <cell> 13
+    <row><cell><ref target=p10>DE SPIEGEL</ref>.                          <cell> 14
+    <row><cell><ref target=p11>KLAGT VAN DEN KLEINEN WILLEM OP DE DOOD VAN ZIJN ZUSJEN</ref>. <cell> 15
+    <row><cell><ref target=p12>HET GESCHENK</ref>.                        <cell> 16
+    <row><cell><ref target=p13>WELKOMGROET VAN CLAARTJE VOOR HAAR KLEINE ZUSJEN</ref>.    <cell> 17
+    <pb n=107><row><cell><ref target=p14>DE LEDIGHEID</ref>.              <cell> 18
+    <row><cell><ref target=p15>HET HONDJEN</ref>.                         <cell> 19
+    <row><cell><ref target=p16>HET GEBROKEN GLAS. EENE VERTELLING</ref>.  <cell> 20
+    <row><cell><ref target=p17>DE GODSDIENSTIGHEID</ref>.                 <cell> 22
+    <row><cell><ref target=p18>DE HAAS</ref>.                             <cell> 23
+    <row><cell><ref target=p19>EENE VERTELLING VAN DORISJE</ref>.         <cell> 24
+    <row><cell><ref target=p20>JESUS. EEN ZANGSTUKJE</ref>.               <cell> 27
+    <row><cell><ref target=p21>DE DRIJFTOL</ref>.                         <cell> 28
+    <row><cell><ref target=p22>DE PRUIMEBOOM. EENE VERTELLING</ref>.     <cell> 29
+    <row><cell><ref target=p23>DE BEDELAAR</ref>.                         <cell> 31
+    <row><cell><ref target=p24>DE WARE VRIENDSCHAP</ref>.                 <cell> 32
+    <row><cell><ref target=p25>LOTJE EN KEESJE</ref>.                     <cell> 33
+    <row><cell><ref target=p26>DE GEZONDHEID</ref>.                       <cell> 35
+    <row><cell><ref target=p27>KLAARTJE EN KEETJE</ref>.                  <cell> 36
+    <row><cell><ref target=p28>HET GEVONDEN LIEDJE</ref>.                 <cell> 38
+    <row><cell><ref target=p29>DE GOEDE EERZUGT. EENE KLAGT VAN DAANTJE</ref>.    <cell> 41
+    <row><cell><ref target=p30>DE KLEPPERMAN</ref>.                       <cell> 43
+    <row><cell><ref target=p31>KLAASJE EN PIETJE</ref>.                   <cell> 44
+    <pb n=108><row><cell><ref target=p32>WINTERZANG</ref>.                <cell> 45
+    <row><cell><ref target=p33>GODS GOEDHEID</ref>.                       <cell> 47
+    <row><cell><ref target=p34>GODS WIJSHEID</ref>.                       <cell> 48
+    <row><cell><ref target=p35>DE EDELMOEDIGE WEDERVERGELDING</ref>.      <cell> 49
+    <row><cell><ref target=p36>HET ZIEKE KIND</ref>.                      <cell> 50
+    <row><cell><ref target=p37>HET GOEDE VOORBEELD</ref>.                 <cell> 52
+    <row><cell><ref target=p38>PIETJE EN KEETJE</ref>.                    <cell> 53
+    <row><cell><ref target=p39>HET GEDULD</ref>.                          <cell> 55
+    <row><cell><ref target=p40>EEN GODSDIENSTIGE JEUGD MAAKT EEN GELUKKIGEN OUDERDOM</ref>.   <cell> 56
+    <row><cell><ref target=p41>DE KOOLMEES</ref>.                         <cell> 58
+    <row><cell><ref target=p42>PIETJE BIJ HET ZIEKBED VAN ZIJN ZUSJEN</ref>.  <cell> 59
+    <row><cell><ref target=p43>HET VERHOORDE GEBED</ref>.                 <cell> 60
+    <row><cell><ref target=p44>HET TEDERHARTIGE KIND</ref>.               <cell> 61
+    <row><cell><ref target=p45>DE ONBEDAGTZAAMHEID</ref>.                 <cell> 63
+    <row><cell><ref target=p46>DE VOGEL OP DE KRUK</ref>.                 <cell> 64
+    <row><cell><ref target=p47>AAN MIJN KLEINE LEZERS</ref>.              <cell> 65
+    <row><cell><ref target=p48>JANTJE EN HET KONIJN</ref>.                <cell> 66
+    <row><cell><ref target=p49>DE ZINGENDE WILLEM. MORGENLIED</ref>.      <cell> 67
+    <pb n=109><row><cell><ref target=p50>DE KLEINE ZANGSTER. AVONDLIED</ref>. <cell> 69
+    <row><cell><ref target=p51>DE VERKEERDE VREES</ref>.                  <cell> 72
+    <row><cell><ref target=p52>DE LIEFDE TOT HET VADERLAND</ref>.         <cell> 73
+    <row><cell><ref target=p53>DE VEGTENDE JONGENS</ref>.                 <cell> 74
+    <row><cell><ref target=p54>HET ONWEDER</ref>.                         <cell> 76
+    <row><cell><ref target=p55>CLAARTJE BIJ DE SCHILDERIJ VAN HARE OVERLEDENE MOEDER</ref>.   <cell> 77
+    <row><cell><ref target=p56>DE VERWELKTE ROOS</ref>.                   <cell> 81
+    <row><cell><ref target=p57>MIETJE BIJ HET CLAVECIMBAAL</ref>.         <cell> 82
+    <row><cell><ref target=p58>HET VERSTANDIG ANTWOORD</ref>.             <cell> 84
+    <row><cell><ref target=p59>HET GEWETEN</ref>.                         <cell> 85
+    <row><cell><ref target=p60>EEN BRIEF VAN CAREL AAN ZIJN ZUSJE CAATJE</ref>.   <cell> 86
+    <row><cell><ref target=p61>DE ZWALUWEN. EENE VERTELLING</ref>.       <cell> 90
+    <row><cell><ref target=p62>DE ZON</ref>.                              <cell> 92
+    <row><cell><ref target=p63>HET LIJK</ref>.                            <cell> 93
+    <row><cell><ref target=p64>HET VOGELNESTJEN. EENE VERTELLING</ref>.   <cell> 96
+    <row><cell><ref target=p65>FLIPJE, DE TUINMAN, EN ZIJN VADER</ref>.   <cell> 99
+    <row><cell><ref target=p66>DE EENZAAMHEID</ref>.                      <cell>100
+</table>
+
+</div1>
+
+<divGen type=Colophon>
+
+</back>
+</text>
+</TEI.2>
